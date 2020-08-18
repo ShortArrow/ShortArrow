@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true)](https://github.com/ShortArrow/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact)](https://github.com/ShortArrow/github-readme-stats)
+
+- 📫 How to reach me: Please DM bamboogeneral@shortarrow.jp
+- 🌱 I’m currently learning How To Create Business
+- 👯 I’m looking to collaborate on Create Business
+- 😄 Pronouns: the Droidizer
+- ⚡ Fun fact: I'm crazy in inkling TPS
