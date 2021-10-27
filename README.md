@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Please DM bamboogeneral@shortarrow.jp
 - 🌱 I’m currently learning How To Create Business
 - 👯 I’m looking to collaborate on Create Business
-- 😄 Pronouns: the Droidizer
-- ⚡ Fun fact: I'm crazy in inkling TPS
+- 🤖 Pronouns: the Droidizer
+- 🦑 Fun fact: I'm crazy in inkling TPS
+- 💬 Ask me about How to accelerate processes
