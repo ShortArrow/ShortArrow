@@ -7,6 +7,6 @@
 - 📫 How to reach me: Please DM bamboogeneral@shortarrow.jp
 - 🌱 I’m currently learning How To Create Business
 - 👯 I’m looking to collaborate on Create Business
-- 🤖 Pronouns: the Droidizer
+- 🤖 Pronouns: the Droidizer : Automating literally all the things
 - 🦑 Fun fact: I'm crazy in inkling TPS
 - 💬 Ask me about How to accelerate processes
