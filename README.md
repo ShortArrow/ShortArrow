@@ -37,7 +37,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-https://twitter.com/sh_orz_RO?s=20&t=ufuEdSPiJy0im2Ju1S0J9A
+https://twitter.com/sh_orz_RO
 
 # My Favorite Stacks
 
