@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 📫 How to reach me: Please DM bamboogeneral@shortarrow.jp
 - 🌱 I’m currently learning How To Create Business
 - 👯 I’m looking to collaborate on Create Business
 - 🤖 Pronouns: the Droidizer : Automating literally all the things
@@ -37,7 +36,8 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-https://twitter.com/sh_orz_RO
+- https://twitter.com/sh_orz_RO
+- bamboogeneral@shortarrow.jp
 
 # My Favorite Stacks
 
