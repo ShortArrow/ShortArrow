@@ -132,4 +132,9 @@ https://twitter.com/sh_orz_RO
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# SpeedInsights
+
+<p align="center">	<!-- (optional) center align -->
+    <img src="reports/psresultdesktop.svg" width="XXXpx">
+</p>
 
