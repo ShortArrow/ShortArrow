@@ -139,3 +139,5 @@
   <source media="(min-width: 800px)" srcset="reports/psresultdesktop.svg">
   <img src="reports/psresultdesktop.svg" alt="Chris standing up holding his daughter Elva" width="100%">
 </picture>
+
+This image Powered by [@ankurparihar](https://github.com/ankurparihar/readme-pagespeed-insights)
