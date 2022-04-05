@@ -14,7 +14,7 @@
 [![GitHub Follow](https://img.shields.io/github/followers/ShortArrow?style=social&logo=github)](https://github.com/ShortArrow)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true)](https://github.com/ShortArrow/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook)](https://github.com/ShortArrow/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SSS,SS,S,AAA)](https://github.com/ShortArrow/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SSS,SS,S,AAA,UNKNOWN,SECRET)](https://github.com/ShortArrow/github-profile-trophy)
 
 
 # ✉How to reach me
