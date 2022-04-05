@@ -1,10 +1,12 @@
-### Hi there 👋
+# 👋Hi there
 
 - 🌱 I’m currently learning How To Create Business
 - 👯 I’m looking to collaborate on Create Business
 - 🤖 Pronouns: the Droidizer : Automating literally all the things
 - 🦑 Fun fact: I'm crazy in inkling TPS
 - 💬 Ask me about How to accelerate processes
+
+# 🎖Badges
 
 <a href="https://stackoverflow.com/users/13329045/shortarrow"><img src="https://stackoverflow.com/users/flair/13329045.png" width="208" height="58" alt="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13329045&layout=compact&theme=dark)](https://stackoverflow.com/users/13329045/shortarrow)
@@ -15,7 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-# How to reach me
+# ✉How to reach me
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
@@ -39,7 +41,7 @@
 - https://twitter.com/sh_orz_RO
 - bamboogeneral@shortarrow.jp
 
-# My Favorite Stacks
+# ❤My Favorite Stacks
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -132,9 +134,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Speed insights
+# ⏱Speed insights
 
-Speed insights of https://github.com/ShortArrow
+Speed insights of [this page](./)
 
 <picture align="center">
   <source media="(max-width: 799px)" srcset="reports/psresultmobile.svg">
@@ -142,4 +144,4 @@ Speed insights of https://github.com/ShortArrow
   <img src="reports/psresultdesktop.svg" alt="Chris standing up holding his daughter Elva" width="100%">
 </picture>
 
-This image Powered by [@ankurparihar](https://github.com/ankurparihar/readme-pagespeed-insights)
+💪 by [@ankurparihar](https://github.com/ankurparihar/readme-pagespeed-insights)
