@@ -8,14 +8,19 @@
 
 # 🎖Badges
 
-<a href="https://stackoverflow.com/users/13329045/shortarrow"><img src="https://stackoverflow.com/users/flair/13329045.png" width="208" height="58" alt="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13329045&layout=compact&theme=dark)](https://stackoverflow.com/users/13329045/shortarrow)
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ShortArrow/posts.svg)](http://qiita.com/ShortArrow)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ShortArrow/contributions.svg)](http://qiita.com/ShortArrow)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/ShortArrow/followers.svg)](http://qiita.com/ShortArrow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sh_orz_RO?style=social&logo=twitter)](https://twitter.com/sh_orz_RO) 
 [![GitHub Follow](https://img.shields.io/github/followers/ShortArrow?style=social&logo=github)](https://github.com/ShortArrow)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true)](https://github.com/ShortArrow/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook)](https://github.com/ShortArrow/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SSS,SS,S,AAA,UNKNOWN,SECRET)](https://github.com/ShortArrow/github-profile-trophy)
 
+<a href="https://stackoverflow.com/users/13329045/shortarrow"><img src="https://stackoverflow.com/users/flair/13329045.png" width="208" height="58" alt="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13329045&layout=compact&theme=dark)](https://stackoverflow.com/users/13329045/shortarrow)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true)](https://github.com/ShortArrow/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook)](https://github.com/ShortArrow/github-readme-stats)
 
 # ✉How to reach me
 
