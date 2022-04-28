@@ -144,8 +144,8 @@
 Speed insights of [this page](./)
 
 <picture align="center">
-  <source media="(max-width: 799px)" srcset="reports/psresultmobile.svg">
-  <source media="(min-width: 800px)" srcset="reports/psresultdesktop.svg">
+  <source media="(max-width: 799px)" srcset="https://raw.githubusercontent.com/ShortArrow/ShortArrow/master/reports/psresultmobile.svg">
+  <source media="(min-width: 800px)" srcset="https://raw.githubusercontent.com/ShortArrow/ShortArrow/master/reports/psresultdesktop.svg">
   <img src="reports/psresultdesktop.svg" alt="Chris standing up holding his daughter Elva" width="100%">
 </picture>
 
