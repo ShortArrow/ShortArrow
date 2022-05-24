@@ -8,6 +8,11 @@
 
 # 🎖Badges
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShortArrow&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShortArrow&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShortArrow&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShortArrow&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShortArrow&theme=github_dark&utcOffset=8)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ShortArrow/posts.svg)](http://qiita.com/ShortArrow)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ShortArrow/contributions.svg)](http://qiita.com/ShortArrow)
