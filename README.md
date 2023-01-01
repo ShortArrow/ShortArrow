@@ -145,7 +145,7 @@
 
 # ⏱Speed insights
 
-Speed insights of [this page](./)
+Speed insights of [this page](https://github.com/ShortArrow)
 
 <picture align="center">
   <source media="(max-width: 799px)" srcset="https://raw.githubusercontent.com/ShortArrow/ShortArrow/master/reports/psresultmobile.svg">
