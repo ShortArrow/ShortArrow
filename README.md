@@ -192,8 +192,8 @@ Speed insights of [this page](https://github.com/ShortArrow)
 
 # End credits
 
-- [Shields IO](https://shields.io)
-- ![Simple Icons](https://img.shields.io/badge/Spotlfy-%23777?style=for-the-badge&logo=simpleicons&logoColor=white)<https://simpleicons.org>
+- ![Shields IO](https://img.shields.io/badge/Shields%20IO-%23777?style=for-the-badge&logo=shieldsdotio&logoColor=white)<https://shields.io>
+- ![Simple Icons](https://img.shields.io/badge/Simple%20Icons-%23777?style=for-the-badge&logo=simpleicons&logoColor=white)<https://simpleicons.org>
 
 # Help me
 
