@@ -1,19 +1,19 @@
-# 👋Hi there
+# 🐈 bio
 
 - 🤖 Pronouns: the Droidizer : Automating literally all the things
 - 🦑 Fun fact: I'm crazy in inkling TPS
 - 💬 Ask me about How to accelerate processes
 
-# 🌐MyEnvironment
+# 🐈 env
 <div>
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
-<img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white">
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+<img src="https://img.shields.io/badge/NeoVim-grey.svg?&style=for-the-badge&logo=neovim&logoColor=57A143">
+<img src="https://img.shields.io/badge/tmux-grey?style=for-the-badge&logo=tmux&logoColor=1BB91F">
+<img src="https://img.shields.io/badge/starship-grey?style=for-the-badge&logo=starship&logoColor=DD0B78">
+<img src="https://img.shields.io/badge/GNU%20Bash-grey?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25">
+<img src="https://img.shields.io/badge/Arch_Linux-grey?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
 </div>
 
-# 🎖Achievement
+# 🐈 achieves
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/MIBGQP7" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=2.85&i=3.07&b1=%23000000&b2=%23212121&i1=%23212121&i2=%23000000&l=ja" width="400" ></a>  
@@ -44,7 +44,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
 ](https://github.com/ShortArrow/github-readme-stats)
 
-# ✉ping
+# 🐈 ping
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
@@ -55,7 +55,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
 - https://twitter.com/sh_orz_RO
 - bamboogeneral@shortarrow.jp
 
-# ❤Favorite Languages
+# 🐈 Languages
 
 <div>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -100,7 +100,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <!-- <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"> -->
 </div>
 
-# ❤Favorite Frameworks
+# 🐈 Frameworks
 
 <div>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -112,7 +112,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
 </div>
 
-# ❤My Favorite Stacks
+# 🐈 Stacks
 
 <div>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
@@ -130,7 +130,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </div>
 
-# 🏠cwd
+# 🐈 cwd
 
 <div>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -156,7 +156,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
 </div>
 
-# DevOps
+# 🐈 DevOps
 
 <div>
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
@@ -172,13 +172,13 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 </div>
 
-# CMS & SSG
+# 🐈 CMS & SSG
 <div>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
   <img src="https://img.shields.io/badge/Hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white">
 </div>
 
-# Favorite Tools
+# 🐈 Tools
 
 <div>
   <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
@@ -202,14 +202,14 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 </div>
 
-# Embedded
+# 🐈 Embedded
 
 <div>
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/-RaspberryPi-grey?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A">
+  <img src="https://img.shields.io/badge/-Arduino-grey?style=for-the-badge&logo=Arduino&logoColor=00979D">
 </div>
 
-# ⏱Speed insights
+# 🐈 Speed insights
 
 Speed insights of [this page](https://github.com/ShortArrow)
 
@@ -221,7 +221,7 @@ Speed insights of [this page](https://github.com/ShortArrow)
 
 💪 by [@ankurparihar](https://github.com/ankurparihar/readme-pagespeed-insights)
 
-# 🎥End credits
+# 🐈 End credits
 
 <div>
   <a href="https://shields.io">
