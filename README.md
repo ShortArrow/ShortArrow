@@ -138,7 +138,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/AWS-grey.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
   <img src="https://img.shields.io/badge/azure-grey.svg?style=for-the-badge&logo=microsoftazure&logoColor=0072C6">
   <img src="https://img.shields.io/badge/Cloudflare-grey.svg?style=for-the-badge&logo=Cloudflare&logoColor=F38020">
-  <img src="https://img.shields.io/badge/firebase-grey.svg?style=for-the-badge&logo=firebase&labelColor=039BE5">
+  <img src="https://img.shields.io/badge/firebase-grey.svg?style=for-the-badge&logo=firebase">
   <img src="https://img.shields.io/badge/GoogleCloud-grey.svg?style=for-the-badge&logo=google-cloud&logoColor=4285F4">
   <img src="https://img.shields.io/badge/Alpine_Linux-grey.svg?style=for-the-badge&logo=alpine-linux&logoColor=0D597F">
   <img src="https://img.shields.io/badge/Android-grey.svg?style=for-the-badge&logo=android&logoColor=3DDC84">
