@@ -246,6 +246,8 @@ Speed insights of [this page](https://github.com/ShortArrow)
   </a>
 </div>
 
+![GitHub Snake dark](./img/snake.svg)
+
 # 🎁Help me
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shortarrow)
