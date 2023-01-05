@@ -143,7 +143,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/Alpine_Linux-grey.svg?style=for-the-badge&logo=alpine-linux&logoColor=0D597F">
   <img src="https://img.shields.io/badge/Android-grey.svg?style=for-the-badge&logo=android&logoColor=3DDC84">
   <img src="https://img.shields.io/badge/Arch%20Linux-grey.svg?logo=arch-linux&style=for-the-badge&logoColor=1793D1">
-  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
+  <img src="https://img.shields.io/badge/cent%20os-grey.svg?style=for-the-badge&logo=centos&logoColor=002260">
   <img src="https://img.shields.io/badge/chrome%20os-grey.svg?style=for-the-badge&logo=google%20chrome&logoColor=3D89FC">
   <img src="https://img.shields.io/badge/Debian-grey.svg?style=for-the-badge&logo=debian&logoColor=D70A53">
   <img src="https://img.shields.io/badge/iOS-grey.svg?style=for-the-badge&logo=ios&logoColor=000000">
