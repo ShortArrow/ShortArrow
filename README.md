@@ -154,7 +154,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/Ubuntu-grey.svg?style=for-the-badge&logo=ubuntu&logoColor=E95420">
   <img src="https://img.shields.io/badge/Windows-grey.svg?style=for-the-badge&logo=windows&logoColor=0078D6">
   <img src="https://img.shields.io/badge/Switch-grey.svg?style=for-the-badge&logo=nintendo-switch&logoColor=E60012">
-  <img src="https://img.shields.io/badge/Playstation%20Vita-grey.svg?style=for-the-badge&logo=playstation-vita&logoColor=003791">
+  <img src="https://img.shields.io/badge/Playstation-grey.svg?style=for-the-badge&logo=playstation&logoColor=003791">
   <img src="https://img.shields.io/badge/xbox-grey.svg?style=for-the-badge&logo=xbox&logoColor=107C10">
 </div>
 
