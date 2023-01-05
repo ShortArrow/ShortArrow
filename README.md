@@ -26,6 +26,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ShortArrow/followers.svg)](http://qiita.com/ShortArrow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sh_orz_RO?style=social&logo=twitter)](https://twitter.com/sh_orz_RO) 
 [![GitHub Follow](https://img.shields.io/github/followers/ShortArrow?style=social&logo=github)](https://github.com/ShortArrow)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fqiita.com%2FShortArrow&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SSS,SS,S,AAA,UNKNOWN,SECRET)](https://github.com/ShortArrow/github-profile-trophy)
 
