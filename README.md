@@ -4,15 +4,16 @@
 - 🦑 Fun fact: I'm crazy in inkling TPS
 - 💬 Ask me about How to accelerate processes
 
-# My Main env
+# 🌐MyEnvironment
+<div>
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
+<img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white">
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+</div>
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-# 🎖Badges
+# 🎖Achievement
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShortArrow&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShortArrow&theme=github_dark)
@@ -144,12 +145,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+# CMS & SSG
+<div>
+<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+<img src="https://img.shields.io/badge/Hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white">
+</div>
 
 # Favorite Tools
 
@@ -173,7 +179,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-# Embed
+# Embedded
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -190,11 +196,20 @@ Speed insights of [this page](https://github.com/ShortArrow)
 
 💪 by [@ankurparihar](https://github.com/ankurparihar/readme-pagespeed-insights)
 
-# End credits
+# 🎥End credits
 
-[[Shields IO](https://img.shields.io/badge/Shields%20IO-%23777?style=for-the-badge&logo=shieldsdotio&logoColor=white)](https://shields.io)<br/>
-[[Simple Icons](https://img.shields.io/badge/Simple%20Icons-%23777?style=for-the-badge&logo=simpleicons&logoColor=white)](https://simpleicons.org)<br/>
+<div>
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/Shields%20IO-%23FFD700?style=for-the-badge&logo=shieldsdotio&logoColor=black">
+  </a>
+  <a href="https://simpleicons.org">
+    <img src="https://img.shields.io/badge/Simple%20Icons-%23FFD700?style=for-the-badge&logo=simpleicons&logoColor=black">
+  </a>
+  <a href="https://github.com/ankurparihar/readme-pagespeed-insights">
+    <img src="https://img.shields.io/badge/GitHub-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+</div>
 
 # 🎁Help me
 
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shortarrow)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shortarrow)
