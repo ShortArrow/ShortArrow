@@ -29,7 +29,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SSS,SS,S,AAA,UNKNOWN,SECRET)](https://github.com/ShortArrow/github-profile-trophy)
 
-<a href="https://stackoverflow.com/users/13329045/shortarrow"><img src="https://stackoverflow.com/users/flair/13329045.png" width="208" height="58" alt="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/13329045/shortarrow">
+  <img src="https://stackoverflow.com/users/flair/13329045.png" width="208" height="58" alt="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true)](https://github.com/ShortArrow/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook)](https://github.com/ShortArrow/github-readme-stats)
 
@@ -220,7 +222,19 @@ Speed insights of [this page](https://github.com/ShortArrow)
     <img src="https://img.shields.io/badge/Simple%20Icons-%23FFD700?style=for-the-badge&logo=simpleicons&logoColor=black">
   </a>
   <a href="https://github.com/ankurparihar/readme-pagespeed-insights">
-    <img src="https://img.shields.io/badge/GitHub-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/ankurparihar%20/%20readmepage_speed_insights-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://img.shields.io/badge/anuraghazra%20/%20github%20readme%20stats-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://img.shields.io/badge/ryo%20ma%20/%20github%20profile%20trophy-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+  <a href="https://github.com/gjbae1212/hit-counter">
+    <img src="https://img.shields.io/badge/gjbae1212%20/%20hit%20counter-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://img.shields.io/badge/vn7n24fzkq%20/%20github%20profile%20summary%20cards-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </div>
 
