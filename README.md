@@ -109,7 +109,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/Flutter-grey.svg?style=for-the-badge&logo=Flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/Gatsby-grey.svg?style=for-the-badge&logo=gatsby&logoColor=663399">
   <img src="https://img.shields.io/badge/jasmine-grey.svg?style=for-the-badge&logo=jasmine&logoColor=8A4182">
-  <img src="https://img.shields.io/badge/react-grey.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A">
+  <img src="https://img.shields.io/badge/react-grey.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next-grey.svg?style=for-the-badge&logo=next.js&logoColor=black">
   <img src="https://img.shields.io/badge/MUI-grey.svg?style=for-the-badge&logo=mui&logoColor=0081CB">
 </div>
@@ -162,15 +162,15 @@ Last Updated on 1/5/2023, 10:28:01 AM
 
 <div>
   <img src="https://img.shields.io/badge/ansible-grey.svg?style=for-the-badge&logo=ansible&logoColor=1A1918">
-  <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-grey.svg?style=for-the-badge&logo=docker&logoColor=0DB7ED">
   <img src="https://img.shields.io/badge/terraform-grey.svg?style=for-the-badge&logo=terraform&logoColor=5835CC">
   <img src="https://img.shields.io/badge/Postman-grey.svg?style=for-the-badge&logo=postman&logoColor=FF6C37">
-  <img src="https://img.shields.io/badge/-Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/-Swagger-Clojure-grey.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D">
   <img src="https://img.shields.io/badge/jenkins-grey.svg?style=for-the-badge&logo=jenkins&logoColor=2C5263">
   <img src="https://img.shields.io/badge/nginx-grey.svg?style=for-the-badge&logo=nginx&logoColor=009639">
-  <img src="https://img.shields.io/badge/mysql-00f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-grey.svg?style=for-the-badge&logo=mysql&logoColor=0000FF">
+  <img src="https://img.shields.io/badge/MongoDB-grey.svg?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/sqlite-grey.svg?style=for-the-badge&logo=sqlite&logoColor=07405E">
   <img src="https://img.shields.io/badge/github%20actions-grey.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5">
 </div>
 
@@ -198,8 +198,8 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/Google%20Sheets-grey.svg?style=for-the-badge&logo=google-sheets&logoColor=34A853">
   <img src="https://img.shields.io/badge/Microsoft_Office-grey.svg?style=for-the-badge&logo=microsoft-office&logoColor=D83B01">
   <img src="https://img.shields.io/badge/blender-grey.svg?style=for-the-badge&logo=blender&logoColor=F5792A">
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13">
+  <img src="https://img.shields.io/badge/Gimp-grey.svg?style=for-the-badge&logo=gimp&logoColor=657D8B">
+  <img src="https://img.shields.io/badge/Inkscape-grey.svg?style=for-the-badge&logo=inkscape&logoColor=080A13">
   <img src="https://img.shields.io/badge/figma-grey.svg?style=for-the-badge&logo=figma&logoColor=F24E1E">
   <img src="https://img.shields.io/badge/Spotify-grey.svg?style=for-the-badge&logo=spotify&logoColor=1ED760">
 </div>
