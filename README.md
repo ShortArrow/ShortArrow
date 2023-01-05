@@ -38,7 +38,11 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://stackoverflow.com/users/flair/13329045.png" width="208" height="58" alt="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true)](https://github.com/ShortArrow/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook)](https://github.com/ShortArrow/github-readme-stats)
+[
+  ![ShortArrow's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
+](https://github.com/ShortArrow/github-readme-stats)[
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
+](https://github.com/ShortArrow/github-readme-stats)
 
 # ✉ping
 
