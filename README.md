@@ -1,10 +1,10 @@
-# 🐈 bio
+# 🎍 bio
 
 - 🤖 Pronouns: the Droidizer : Automating literally all the things
 - 🦑 Fun fact: I'm crazy in inkling TPS
 - 💬 Ask me about How to accelerate processes
 
-# 🐈 env
+# 🎍 env
 <div>
   <img src="https://img.shields.io/badge/NeoVim-grey.svg?&style=for-the-badge&logo=neovim&logoColor=57A143">
   <img src="https://img.shields.io/badge/tmux-grey?style=for-the-badge&logo=tmux&logoColor=1BB91F">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Arch_Linux-grey?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
 </div>
 
-# 🐈 achieves
+# 🎍 achieves
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/MIBGQP7" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=2.85&i=3.07&b1=%23000000&b2=%23212121&i1=%23212121&i2=%23000000&l=ja" width="400" ></a>  
@@ -44,7 +44,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
 ](https://github.com/ShortArrow/github-readme-stats)
 
-# 🐈 ping
+# 🎍 ping
 
 <div>
   <img src="https://img.shields.io/badge/Discord-grey.svg?style=for-the-badge&logo=discord&logoColor=7289DA">
@@ -57,7 +57,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
 - https://twitter.com/sh_orz_RO
 - bamboogeneral@shortarrow.jp
 
-# 🐈 Languages
+# 🎍 Languages
 
 <div>
   <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -102,7 +102,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <!-- <img src="https://img.shields.io/badge/Zig-F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"> -->
 </div>
 
-# 🐈 Frameworks
+# 🎍 Frameworks
 
 <div>
   <img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -114,7 +114,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/MUI-0081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
 </div>
 
-# 🐈 Stacks
+# 🎍 Stacks
 
 <div>
   <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
@@ -132,7 +132,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </div>
 
-# 🐈 cwd
+# 🎍 cwd
 
 <div>
   <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -158,7 +158,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/xbox-107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
 </div>
 
-# 🐈 DevOps
+# 🎍 DevOps
 
 <div>
   <img src="https://img.shields.io/badge/ansible-1A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
@@ -174,13 +174,13 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 </div>
 
-# 🐈 CMS & SSG
+# 🎍 CMS & SSG
 <div>
   <img src="https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
   <img src="https://img.shields.io/badge/Hugo-FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white">
 </div>
 
-# 🐈 Tools
+# 🎍 Tools
 
 <div>
   <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
@@ -204,14 +204,14 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 </div>
 
-# 🐈 Embedded
+# 🎍 Embedded
 
 <div>
   <img src="https://img.shields.io/badge/-RaspberryPi-grey?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A">
   <img src="https://img.shields.io/badge/-Arduino-grey?style=for-the-badge&logo=Arduino&logoColor=00979D">
 </div>
 
-# 🐈 Speed insights
+# 🎍 Speed insights
 
 Speed insights of [this page](https://github.com/ShortArrow)
 
@@ -223,7 +223,7 @@ Speed insights of [this page](https://github.com/ShortArrow)
 
 💪 by [@ankurparihar](https://github.com/ankurparihar/readme-pagespeed-insights)
 
-# 🐈 End credits
+# 🎍 End credits
 
 <div>
   <a href="https://shields.io">
