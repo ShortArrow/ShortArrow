@@ -105,12 +105,12 @@ Last Updated on 1/5/2023, 10:28:01 AM
 # 🎍 Frameworks
 
 <div>
-  <img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-grey.svg?style=for-the-badge&logo=flask&logoColor=black">
   <img src="https://img.shields.io/badge/Flutter-grey.svg?style=for-the-badge&logo=Flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/Gatsby-grey.svg?style=for-the-badge&logo=gatsby&logoColor=663399">
   <img src="https://img.shields.io/badge/jasmine-grey.svg?style=for-the-badge&logo=jasmine&logoColor=8A4182">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-grey.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A">
+  <img src="https://img.shields.io/badge/Next-grey.svg?style=for-the-badge&logo=next.js&logoColor=black">
   <img src="https://img.shields.io/badge/MUI-grey.svg?style=for-the-badge&logo=mui&logoColor=0081CB">
 </div>
 
@@ -120,10 +120,10 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/Anaconda-grey.svg?style=for-the-badge&logo=anaconda&logoColor=44A833">
   <img src="https://img.shields.io/badge/chart.js-grey.svg?style=for-the-badge&logo=chart.js&logoColor=F5788D">
   <img src="https://img.shields.io/badge/django-grey.svg?style=for-the-badge&logo=django&logoColor=092E20">
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
+  <img src="https://img.shields.io/badge/expo-grey?style=for-the-badge&logo=expo&logoColor=black">
   <img src="https://img.shields.io/badge/NPM-grey.svg?style=for-the-badge&logo=npm&logoColor=000000">
   <img src="https://img.shields.io/badge/React_Router-grey.svg?style=for-the-badge&logo=react-router&logoColor=CA4245">
-  <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+  <img src="https://img.shields.io/badge/webpack-grey.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9">
   <img src="https://img.shields.io/badge/vercel-grey.svg?style=for-the-badge&logo=vercel&logoColor=000000">
   <img src="https://img.shields.io/badge/Keras-grey.svg?style=for-the-badge&logo=Keras&logoColor=D00000">
   <img src="https://img.shields.io/badge/pandas-grey.svg?style=for-the-badge&logo=pandas&logoColor=150458">
@@ -138,18 +138,18 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/AWS-grey.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
   <img src="https://img.shields.io/badge/azure-grey.svg?style=for-the-badge&logo=microsoftazure&logoColor=0072C6">
   <img src="https://img.shields.io/badge/Cloudflare-grey.svg?style=for-the-badge&logo=Cloudflare&logoColor=F38020">
-  <img src="https://img.shields.io/badge/firebase-039BE5.svg?style=for-the-badge&logo=firebase">
+  <img src="https://img.shields.io/badge/firebase-grey.svg?style=for-the-badge&logo=firebase&labelColor=039BE5">
   <img src="https://img.shields.io/badge/GoogleCloud-grey.svg?style=for-the-badge&logo=google-cloud&logoColor=4285F4">
   <img src="https://img.shields.io/badge/Alpine_Linux-grey.svg?style=for-the-badge&logo=alpine-linux&logoColor=0D597F">
   <img src="https://img.shields.io/badge/Android-grey.svg?style=for-the-badge&logo=android&logoColor=3DDC84">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Arch%20Linux-grey.svg?logo=arch-linux&style=for-the-badge&logoColor=1793D1">
   <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
-  <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/chrome%20os-grey.svg?style=for-the-badge&logo=google%20chrome&logoColor=3D89FC">
   <img src="https://img.shields.io/badge/Debian-grey.svg?style=for-the-badge&logo=debian&logoColor=D70A53">
   <img src="https://img.shields.io/badge/iOS-grey.svg?style=for-the-badge&logo=ios&logoColor=000000">
   <img src="https://img.shields.io/badge/Kali-grey.svg?style=for-the-badge&logo=kalilinux&logoColor=268BEE">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+  <img src="https://img.shields.io/badge/Linux-grey.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
+  <img src="https://img.shields.io/badge/mac%20os-grey.svg?style=for-the-badge&logo=macos&logoColor=black">
   <img src="https://img.shields.io/badge/Red%20Hat-grey.svg?style=for-the-badge&logo=redhat&logoColor=EE0000">
   <img src="https://img.shields.io/badge/Ubuntu-grey.svg?style=for-the-badge&logo=ubuntu&logoColor=E95420">
   <img src="https://img.shields.io/badge/Windows-grey.svg?style=for-the-badge&logo=windows&logoColor=0078D6">
