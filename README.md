@@ -6,11 +6,11 @@
 
 # 🐈 env
 <div>
-<img src="https://img.shields.io/badge/NeoVim-grey.svg?&style=for-the-badge&logo=neovim&logoColor=57A143">
-<img src="https://img.shields.io/badge/tmux-grey?style=for-the-badge&logo=tmux&logoColor=1BB91F">
-<img src="https://img.shields.io/badge/starship-grey?style=for-the-badge&logo=starship&logoColor=DD0B78">
-<img src="https://img.shields.io/badge/GNU%20Bash-grey?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25">
-<img src="https://img.shields.io/badge/Arch_Linux-grey?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
+  <img src="https://img.shields.io/badge/NeoVim-grey.svg?&style=for-the-badge&logo=neovim&logoColor=57A143">
+  <img src="https://img.shields.io/badge/tmux-grey?style=for-the-badge&logo=tmux&logoColor=1BB91F">
+  <img src="https://img.shields.io/badge/starship-grey?style=for-the-badge&logo=starship&logoColor=DD0B78">
+  <img src="https://img.shields.io/badge/GNU%20Bash-grey?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25">
+  <img src="https://img.shields.io/badge/Arch_Linux-grey?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
 </div>
 
 # 🐈 achieves
@@ -46,11 +46,13 @@ Last Updated on 1/5/2023, 10:28:01 AM
 
 # 🐈 ping
 
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/Discord-grey.svg?style=for-the-badge&logo=discord&logoColor=7289DA">
+  <img src="https://img.shields.io/badge/Reddit-grey?style=for-the-badge&logo=reddit&logoColor=FF4500">
+  <img src="https://img.shields.io/badge/Slack-grey?style=for-the-badge&logo=slack&logoColor=4A154B">
+  <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=2CA5E0">
+  <img src="https://img.shields.io/badge/Twitter-grey.svg?style=for-the-badge&logo=Twitter&logoColor=1DA1F2">
+</div>
 
 - https://twitter.com/sh_orz_RO
 - bamboogeneral@shortarrow.jp
