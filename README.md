@@ -88,7 +88,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <!-- <img src="https://img.shields.io/badge/perl-grey.svg?style=for-the-badge&logo=perl&logoColor=39457E"> -->
   <img src="https://img.shields.io/badge/php-grey.svg?style=for-the-badge&logo=php&logoColor=777BB4">
   <img src="https://img.shields.io/badge/PowerShell-grey.svg?style=for-the-badge&logo=powershell&logoColor=5391FE">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python&logoColor=3670A0">
   <!-- <img src="https://img.shields.io/badge/r-grey.svg?style=for-the-badge&logo=r&logoColor=276DC3"> -->
   <!-- <img src="https://img.shields.io/badge/rescript-14162c?style=for-the-badge&logo=rescript&logoColor=e34c4c"> -->
   <!-- <img src="https://img.shields.io/badge/ruby-grey.svg?style=for-the-badge&logo=ruby&logoColor=CC342D"> -->
@@ -183,12 +183,12 @@ Last Updated on 1/5/2023, 10:28:01 AM
 # 🎍 Tools
 
 <div>
-  <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
+  <img src="https://img.shields.io/badge/CodePen-grey.svg?style=for-the-badge&logo=codepen&logoColor=black">
   <img src="https://img.shields.io/badge/Android%20Studio-grey.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84">
   <img src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=000000">
   <img src="https://img.shields.io/badge/IntelliJIDEA-grey.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000">
   <img src="https://img.shields.io/badge/jupyter-grey.svg?style=for-the-badge&logo=jupyter&logoColor=FA0F00">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-grey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
   <img src="https://img.shields.io/badge/Xcode-grey.svg?style=for-the-badge&logo=Xcode&logoColor=007ACC">
   <img src="https://img.shields.io/badge/tor-grey.svg?style=for-the-badge&logo=tor-project&logoColor=7E4798">
   <img src="https://img.shields.io/badge/-selenium-grey.svg?style=for-the-badge&logo=selenium&logoColor=43B02A">
