@@ -165,7 +165,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <img src="https://img.shields.io/badge/docker-grey.svg?style=for-the-badge&logo=docker&logoColor=0DB7ED">
   <img src="https://img.shields.io/badge/terraform-grey.svg?style=for-the-badge&logo=terraform&logoColor=5835CC">
   <img src="https://img.shields.io/badge/Postman-grey.svg?style=for-the-badge&logo=postman&logoColor=FF6C37">
-  <img src="https://img.shields.io/badge/Swagger-Clojure-grey.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D">
+  <img src="https://img.shields.io/badge/Swagger-grey.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D">
   <img src="https://img.shields.io/badge/jenkins-grey.svg?style=for-the-badge&logo=jenkins&logoColor=2C5263">
   <img src="https://img.shields.io/badge/nginx-grey.svg?style=for-the-badge&logo=nginx&logoColor=009639">
   <img src="https://img.shields.io/badge/mysql-grey.svg?style=for-the-badge&logo=mysql&logoColor=0000FF">
