@@ -241,6 +241,9 @@ Speed insights of [this page](https://github.com/ShortArrow)
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://img.shields.io/badge/vn7n24fzkq%20/%20github%20profile%20summary%20cards-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
+  <a href="https://github.com/kawamataryo/lapras-card-readme">
+    <img src="https://img.shields.io/badge/kawamataryo%20/%20lapras%20card%20readme-%23FFD700?style=for-the-badge&logo=github&logoColor=black">
+  </a>
 </div>
 
 # 🎁Help me
