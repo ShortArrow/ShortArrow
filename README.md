@@ -192,9 +192,9 @@ Speed insights of [this page](https://github.com/ShortArrow)
 
 # End credits
 
-- ![Shields IO](https://img.shields.io/badge/Shields%20IO-%23777?style=for-the-badge&logo=shieldsdotio&logoColor=white)<https://shields.io>
-- ![Simple Icons](https://img.shields.io/badge/Simple%20Icons-%23777?style=for-the-badge&logo=simpleicons&logoColor=white)<https://simpleicons.org>
+[[Shields IO](https://img.shields.io/badge/Shields%20IO-%23777?style=for-the-badge&logo=shieldsdotio&logoColor=white)](https://shields.io)<br/>
+[[Simple Icons](https://img.shields.io/badge/Simple%20Icons-%23777?style=for-the-badge&logo=simpleicons&logoColor=white)](https://simpleicons.org)<br/>
 
-# Help me
+# 🎁Help me
 
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shortarrow)
