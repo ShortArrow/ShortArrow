@@ -32,7 +32,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
 [![GitHub Follow](https://img.shields.io/github/followers/ShortArrow?style=social&logo=github)](https://github.com/ShortArrow)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fqiita.com%2FShortArrow&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=3)](https://github.com/ShortArrow/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=6)](https://github.com/ShortArrow/github-profile-trophy)
 
 <a href="https://stackoverflow.com/users/13329045/shortarrow">
   <img src="https://stackoverflow.com/users/flair/13329045.png" width="208" height="58" alt="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
