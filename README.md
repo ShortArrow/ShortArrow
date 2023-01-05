@@ -76,7 +76,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <!-- <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"> -->
   <img src="https://img.shields.io/badge/html5-grey.svg?style=for-the-badge&logo=go&logoColor=E34F26">
   <!-- <img src="https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=ED8B00"> -->
-  <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/javascript-grey.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- <img src="https://img.shields.io/badge/-Julia-grey.svg?style=for-the-badge&logo=julia&logoColor=9558B2"> -->
   <!-- <img src="https://img.shields.io/badge/kotlin-grey.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF"> -->
   <!-- <img src="https://img.shields.io/badge/latex-grey.svg?style=for-the-badge&logo=latex&logoColor=008080"> -->
@@ -88,7 +88,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <!-- <img src="https://img.shields.io/badge/perl-grey.svg?style=for-the-badge&logo=perl&logoColor=39457E"> -->
   <img src="https://img.shields.io/badge/php-grey.svg?style=for-the-badge&logo=php&logoColor=777BB4">
   <img src="https://img.shields.io/badge/PowerShell-grey.svg?style=for-the-badge&logo=powershell&logoColor=5391FE">
-  <img src="https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python&logoColor=3670A0">
+  <img src="https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=FFDD54">
   <!-- <img src="https://img.shields.io/badge/r-grey.svg?style=for-the-badge&logo=r&logoColor=276DC3"> -->
   <!-- <img src="https://img.shields.io/badge/rescript-14162c?style=for-the-badge&logo=rescript&logoColor=e34c4c"> -->
   <!-- <img src="https://img.shields.io/badge/ruby-grey.svg?style=for-the-badge&logo=ruby&logoColor=CC342D"> -->
@@ -98,7 +98,7 @@ Last Updated on 1/5/2023, 10:28:01 AM
   <!-- <img src="https://img.shields.io/badge/Solidity-grey.svg?style=for-the-badge&logo=solidity&logoColor=363636"> -->
   <!-- <img src="https://img.shields.io/badge/swift-grey.svg?style=for-the-badge&logo=swift&logoColor=F54A2A"> -->
   <img src="https://img.shields.io/badge/typescript-grey.svg?style=for-the-badge&logo=typescript&logoColor=007ACC">
-  <img src="https://img.shields.io/badge/Windows%20Terminal-grey.svg?style=for-the-badge&logo=windows-terminal&logoColor=4D4D4D">
+  <img src="https://img.shields.io/badge/Windows%20Terminal-grey.svg?style=for-the-badge&logo=windows-terminal&logoColor=black">
   <!-- <img src="https://img.shields.io/badge/Zig-grey.svg?style=for-the-badge&logo=zig&logoColor=F7A41D"> -->
 </div>
 
