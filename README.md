@@ -1,8 +1,9 @@
 # 🎍 bio
 
 - 🤖 Pronouns: the Droidizer : Automating literally all the things
-- 🦑 Fun fact: I'm crazy in inkling TPS
+- 🦑 Fun fact: I'm crazy in TPS that act creature named inkling
 - 💬 Ask me about How to accelerate processes
+- 🫠 Sloth: Driven by laziness
 
 # 🎍 env
 <div>
@@ -57,7 +58,7 @@ Last Updated on 2/3/2023, 12:20:35 AM
 - https://twitter.com/sh_orz_RO
 - bamboogeneral@shortarrow.jp
 
-# 🎍 Languages
+# 🎍 ❤ Languages
 
 <div>
   <img src="https://img.shields.io/badge/c-grey.svg?style=for-the-badge&logo=c&logoColor=00599C">
@@ -102,7 +103,7 @@ Last Updated on 2/3/2023, 12:20:35 AM
   <!-- <img src="https://img.shields.io/badge/Zig-grey.svg?style=for-the-badge&logo=zig&logoColor=F7A41D"> -->
 </div>
 
-# 🎍 Frameworks
+# 🎍 ❤ Frameworks
 
 <div>
   <img src="https://img.shields.io/badge/flask-grey.svg?style=for-the-badge&logo=flask&logoColor=black">
@@ -114,13 +115,11 @@ Last Updated on 2/3/2023, 12:20:35 AM
   <img src="https://img.shields.io/badge/MUI-grey.svg?style=for-the-badge&logo=mui&logoColor=0081CB">
 </div>
 
-# 🎍 Stacks
+# 🎍 ❤ Stacks
 
 <div>
   <img src="https://img.shields.io/badge/Anaconda-grey.svg?style=for-the-badge&logo=anaconda&logoColor=44A833">
-  <img src="https://img.shields.io/badge/chart.js-grey.svg?style=for-the-badge&logo=chart.js&logoColor=F5788D">
   <img src="https://img.shields.io/badge/django-grey.svg?style=for-the-badge&logo=django&logoColor=092E20">
-  <img src="https://img.shields.io/badge/expo-grey?style=for-the-badge&logo=expo&logoColor=black">
   <img src="https://img.shields.io/badge/NPM-grey.svg?style=for-the-badge&logo=npm&logoColor=000000">
   <img src="https://img.shields.io/badge/React_Router-grey.svg?style=for-the-badge&logo=react-router&logoColor=CA4245">
   <img src="https://img.shields.io/badge/webpack-grey.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9">
@@ -132,7 +131,7 @@ Last Updated on 2/3/2023, 12:20:35 AM
   <img src="https://img.shields.io/badge/TensorFlow-grey.svg?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00">
 </div>
 
-# 🎍 cwd
+# 🎍 ❤ cwd
 
 <div>
   <img src="https://img.shields.io/badge/AWS-grey.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
@@ -158,7 +157,7 @@ Last Updated on 2/3/2023, 12:20:35 AM
   <img src="https://img.shields.io/badge/xbox-grey.svg?style=for-the-badge&logo=xbox&logoColor=107C10">
 </div>
 
-# 🎍 DevOps
+# 🎍 ❤ DevOps
 
 <div>
   <img src="https://img.shields.io/badge/ansible-grey.svg?style=for-the-badge&logo=ansible&logoColor=1A1918">
@@ -174,13 +173,13 @@ Last Updated on 2/3/2023, 12:20:35 AM
   <img src="https://img.shields.io/badge/github%20actions-grey.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5">
 </div>
 
-# 🎍 CMS & SSG
+# 🎍 ❤ CMS & SSG
 <div>
   <img src="https://img.shields.io/badge/WordPress-grey.svg?style=for-the-badge&logo=WordPress&logoColor=117AC9">
   <img src="https://img.shields.io/badge/Hugo-grey.svg?style=for-the-badge&logo=hugo&logoColor=FF4088">
 </div>
 
-# 🎍 Tools
+# 🎍 ❤ Tools
 
 <div>
   <img src="https://img.shields.io/badge/CodePen-grey.svg?style=for-the-badge&logo=codepen&logoColor=black">
@@ -204,7 +203,7 @@ Last Updated on 2/3/2023, 12:20:35 AM
   <img src="https://img.shields.io/badge/Spotify-grey.svg?style=for-the-badge&logo=spotify&logoColor=1ED760">
 </div>
 
-# 🎍 Embedded
+# 🎍 ❤ Embedded
 
 <div>
   <img src="https://img.shields.io/badge/-RaspberryPi-grey.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A">
