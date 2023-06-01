@@ -18,7 +18,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/MIBGQP7" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=2.85&i=3.11&b1=%23000000&b2=%23212121&i1=%23212121&i2=%23000000&l=ja" width="400" ></a>  
-Last Updated on 5/31/2023, 12:20:29 AM
+Last Updated on 6/1/2023, 12:25:46 AM
 <!--END_SECTION:lapras-card-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShortArrow&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShortArrow&theme=github_dark)
