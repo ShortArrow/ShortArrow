@@ -4,6 +4,8 @@
 - 🦑 Fun fact: I'm crazy in TPS that act creature named inkling
 - 💬 Ask me about How to accelerate processes
 - 🫠 Sloth: Driven by laziness
+- 📜 Blog: [shortarrow.jp](https://www.shortarrow.jp/)
+- 🎪 Portfolio: [shortarrow.jp/portfolio](https://www.shortarrow.jp/portfolio/)
 
 # 🎍 env
 <div>
