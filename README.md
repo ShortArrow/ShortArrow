@@ -108,34 +108,38 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 ❤ Frameworks
 
 <div>
-  <img src="https://img.shields.io/badge/flask-grey.svg?style=for-the-badge&logo=flask&logoColor=black">
-  <img src="https://img.shields.io/badge/Flutter-grey.svg?style=for-the-badge&logo=Flutter&logoColor=02569B">
-  <img src="https://img.shields.io/badge/Gatsby-grey.svg?style=for-the-badge&logo=gatsby&logoColor=663399">
-  <img src="https://img.shields.io/badge/django-grey.svg?style=for-the-badge&logo=django&logoColor=092E20">
-  <img src="https://img.shields.io/badge/react-grey.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next-grey.svg?style=for-the-badge&logo=next.js&logoColor=black">
-  <img src="https://img.shields.io/badge/MUI-grey.svg?style=for-the-badge&logo=mui&logoColor=0081CB">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/flask/white/black" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gatsby" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/n18next" />
 </div>
 
 # 🎍 ❤ Stacks
 
 <div>
-  <img src="https://img.shields.io/badge/Anaconda-grey.svg?style=for-the-badge&logo=anaconda&logoColor=44A833">
-  <img src="https://img.shields.io/badge/NPM-grey.svg?style=for-the-badge&logo=npm&logoColor=000000">
-  <img src="https://img.shields.io/badge/React_Router-grey.svg?style=for-the-badge&logo=react-router&logoColor=CA4245">
-  <img src="https://img.shields.io/badge/webpack-grey.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9">
-  <img src="https://img.shields.io/badge/vite-grey.svg?style=for-the-badge&logo=vite&logoColor=646CFF">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/anaconda" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react-router" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/webpack" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
 </div>
 
 # 🎍 ❤ Habitat
 
 <div>
-  <img src="https://img.shields.io/badge/AWS-grey.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
-  <img src="https://img.shields.io/badge/azure-grey.svg?style=for-the-badge&logo=microsoftazure&logoColor=0072C6">
-  <img src="https://img.shields.io/badge/GoogleCloud-grey.svg?style=for-the-badge&logo=google-cloud&logoColor=4285F4">
-  <img src="https://img.shields.io/badge/vercel-grey.svg?style=for-the-badge&logo=vercel&logoColor=000000">
-  <img src="https://img.shields.io/badge/Cloudflare-grey.svg?style=for-the-badge&logo=Cloudflare&logoColor=F38020">
-  <img src="https://img.shields.io/badge/firebase-grey.svg?style=for-the-badge&logo=firebase">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vercel" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nextcloud" /> -->
 </div>
 
 # 🎍 ❤ OS
@@ -187,6 +191,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 ❤ Tools
 
 <div>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/diagramsdotnet" />
   <img src="https://img.shields.io/badge/CodePen-grey.svg?style=for-the-badge&logo=codepen&logoColor=black">
   <img src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=000000">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-grey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
