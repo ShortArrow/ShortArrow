@@ -145,21 +145,21 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 ❤ OS
 
 <div>
-  <img src="https://img.shields.io/badge/Alpine_Linux-grey.svg?style=for-the-badge&logo=alpine-linux&logoColor=0D597F">
-  <img src="https://img.shields.io/badge/Android-grey.svg?style=for-the-badge&logo=android&logoColor=3DDC84">
-  <img src="https://img.shields.io/badge/Arch_Linux-grey.svg?logo=arch-linux&style=for-the-badge&logoColor=1793D1">
-  <img src="https://img.shields.io/badge/chrome_os-grey.svg?style=for-the-badge&logo=google_chrome&logoColor=3D89FC">
-  <img src="https://img.shields.io/badge/Debian-grey.svg?style=for-the-badge&logo=debian&logoColor=D70A53">
-  <img src="https://img.shields.io/badge/iOS-grey.svg?style=for-the-badge&logo=ios&logoColor=000000">
-  <img src="https://img.shields.io/badge/Kali-grey.svg?style=for-the-badge&logo=kalilinux&logoColor=268BEE">
-  <img src="https://img.shields.io/badge/Linux-grey.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/mac_os-grey.svg?style=for-the-badge&logo=macos&logoColor=black">
-  <img src="https://img.shields.io/badge/Red_Hat-grey.svg?style=for-the-badge&logo=redhat&logoColor=EE0000">
-  <img src="https://img.shields.io/badge/Ubuntu-grey.svg?style=for-the-badge&logo=ubuntu&logoColor=E95420">
-  <img src="https://img.shields.io/badge/Windows-grey.svg?style=for-the-badge&logo=windows&logoColor=0078D6">
-  <img src="https://img.shields.io/badge/Switch-grey.svg?style=for-the-badge&logo=nintendo-switch&logoColor=E60012">
-  <img src="https://img.shields.io/badge/Playstation-grey.svg?style=for-the-badge&logo=playstation&logoColor=003791">
-  <img src="https://img.shields.io/badge/xbox-grey.svg?style=for-the-badge&logo=xbox&logoColor=107C10">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/alpinelinux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/android" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/chromeos" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/debian" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ios" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/macos" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/redhat" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/windows" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nintendoswitch" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/playstation" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/xbox" />
 </div>
 
 # 🎍 ❤ DevOps
