@@ -134,7 +134,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 ❤ Habitat
 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare" />
@@ -153,7 +153,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/debian" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ios/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/macos/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/redhat" />
