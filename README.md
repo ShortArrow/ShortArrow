@@ -109,6 +109,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/flask/black/white" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/falcon" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gatsby" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
