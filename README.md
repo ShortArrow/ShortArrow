@@ -112,7 +112,6 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/flask/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/falcon" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gatsby" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/black/white" />
@@ -129,6 +128,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/webpack" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/chocolatey" />
 </div>
 
 # 🎍 ❤ Habitat
@@ -140,6 +140,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vercel/black/white" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gatsby" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nextcloud" /> -->
 </div>
@@ -182,6 +183,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/jasmine" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ngrok" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/playwright" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vitest" />
 </div>
@@ -209,6 +211,8 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/inkscape/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/spotify" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark" />
 </div>
 
 # 🎍 ❤ Embedded
