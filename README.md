@@ -102,6 +102,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/swift" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/googleappsscript" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/zig" /> -->
 </div>
 
@@ -169,6 +170,9 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/ansible" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/terraform" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/virtualbox" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vagrant" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/qemu" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/swagger" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/jenkins" />
@@ -185,33 +189,33 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 ❤ CMS & SSG
 
 <div>
-  <img src="https://img.shields.io/badge/WordPress-grey.svg?style=for-the-badge&logo=WordPress&logoColor=117AC9">
-  <img src="https://img.shields.io/badge/Hugo-grey.svg?style=for-the-badge&logo=hugo&logoColor=FF4088">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/wordpress" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/hugo" />
 </div>
 
 # 🎍 ❤ Tools
 
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/diagramsdotnet" />
-  <img src="https://img.shields.io/badge/CodePen-grey.svg?style=for-the-badge&logo=codepen&logoColor=black">
-  <img src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=000000">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-grey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
-  <img src="https://img.shields.io/badge/git-grey.svg?style=for-the-badge&logo=git&logoColor=F05033">
-  <img src="https://img.shields.io/badge/github-grey.svg?style=for-the-badge&logo=github&logoColor=121011">
-  <img src="https://img.shields.io/badge/Google_Sheets-grey.svg?style=for-the-badge&logo=google-sheets&logoColor=34A853">
-  <img src="https://img.shields.io/badge/Microsoft_Office-grey.svg?style=for-the-badge&logo=microsoft-office&logoColor=D83B01">
-  <img src="https://img.shields.io/badge/blender-grey.svg?style=for-the-badge&logo=blender&logoColor=F5792A">
-  <img src="https://img.shields.io/badge/Gimp-grey.svg?style=for-the-badge&logo=gimp&logoColor=657D8B">
-  <img src="https://img.shields.io/badge/Inkscape-grey.svg?style=for-the-badge&logo=inkscape&logoColor=080A13">
-  <img src="https://img.shields.io/badge/figma-grey.svg?style=for-the-badge&logo=figma&logoColor=F24E1E">
-  <img src="https://img.shields.io/badge/Spotify-grey.svg?style=for-the-badge&logo=spotify&logoColor=1ED760">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/codepen" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/unity" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftoffice" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/blender" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gimp" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/inkscape" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/spotify" />
 </div>
 
 # 🎍 ❤ Embedded
 
 <div>
-  <img src="https://img.shields.io/badge/-RaspberryPi-grey.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=C51A4A">
-  <img src="https://img.shields.io/badge/-Arduino-grey.svg?style=for-the-badge&logo=Arduino&logoColor=00979D">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/arduino" />
 </div>
 
 # 🎍 Speed insights
