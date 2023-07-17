@@ -51,12 +51,12 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 Communication Protcol
 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/discord/7289DA/7289DA" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/reddit/FF4500/FF4500" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/slack/4A154B/4A154B" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/telegram/2CA5E0/2CA5E0" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/discord" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/reddit" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/slack" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
   <a href="https://twitter.com/sh_orz_RO">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2/1DA1F2" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/twitter" />
   </a>
   <a href="mailto:bamboogeneral@shortarrow.jp">
     <img height="32" width="32" src="https://cdn.simpleicons.org/maildotru/000000/FFFFFF" />
@@ -66,46 +66,43 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 Favo Lang
 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c/A8B9CC/A8B9CC" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c++/00599C/00599C" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/239120/239120" />
-  <!-- <img src="https://img.shields.io/badge/Clojure-Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure"> -->
-  <!-- <img src="https://img.shields.io/badge/crystal-grey.svg?style=for-the-badge&logo=crystal&logoColor=000000"> -->
-  <img src="https://img.shields.io/badge/css3-grey.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/dart-grey.svg?style=for-the-badge&logo=dart&logoColor=0175C2">
-  <!-- <img src="https://img.shields.io/badge/elixir-grey.svg?style=for-the-badge&logo=elixir&logoColor=4B275F"> -->
-  <!-- <img src="https://img.shields.io/badge/Elm-grey.svg?style=for-the-badge&logo=elm&logoColor=60B5CC"> -->
-  <!-- <img src="https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533"> -->
-  <!-- <img src="https://img.shields.io/badge/Fortran-grey.svg?style=for-the-badge&logo=fortran&logoColor=734F96"> -->
-  <img src="https://img.shields.io/badge/go-grey.svg?style=for-the-badge&logo=go&logoColor=00ADD8">
-  <!-- <img src="https://img.shields.io/badge/-GraphQL-grey.svg?style=for-the-badge&logo=graphql&logoColor=E10098"> -->
-  <!-- <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/html5-grey.svg?style=for-the-badge&logo=go&logoColor=E34F26">
-  <!-- <img src="https://img.shields.io/badge/java-grey.svg?style=for-the-badge&logo=java&logoColor=ED8B00"> -->
-  <img src="https://img.shields.io/badge/javascript-grey.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <!-- <img src="https://img.shields.io/badge/-Julia-grey.svg?style=for-the-badge&logo=julia&logoColor=9558B2"> -->
-  <!-- <img src="https://img.shields.io/badge/kotlin-grey.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF"> -->
-  <!-- <img src="https://img.shields.io/badge/latex-grey.svg?style=for-the-badge&logo=latex&logoColor=008080"> -->
-  <img src="https://img.shields.io/badge/lua-grey.svg?style=for-the-badge&logo=lua&logoColor=2C2D72">
-  <img src="https://img.shields.io/badge/markdown-grey.svg?style=for-the-badge&logo=markdown&logoColor=000000">
-  <!-- <img src="https://img.shields.io/badge/nim-grey.svg?style=for-the-badge&logo=nim&logoColor=FFE953"> -->
-  <!-- <img src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"> -->
-  <!-- <img src="https://img.shields.io/badge/orgmode-grey.svg?style=for-the-badge&logo=org&logoColor=77AA99"> -->
-  <!-- <img src="https://img.shields.io/badge/perl-grey.svg?style=for-the-badge&logo=perl&logoColor=39457E"> -->
-  <img src="https://img.shields.io/badge/php-grey.svg?style=for-the-badge&logo=php&logoColor=777BB4">
-  <img src="https://img.shields.io/badge/PowerShell-grey.svg?style=for-the-badge&logo=powershell&logoColor=5391FE">
-  <img src="https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python&logoColor=FFDD54&labelColor=3670A0">
-  <!-- <img src="https://img.shields.io/badge/r-grey.svg?style=for-the-badge&logo=r&logoColor=276DC3"> -->
-  <!-- <img src="https://img.shields.io/badge/rescript-14162c?style=for-the-badge&logo=rescript&logoColor=e34c4c"> -->
-  <!-- <img src="https://img.shields.io/badge/ruby-grey.svg?style=for-the-badge&logo=ruby&logoColor=CC342D"> -->
-  <img src="https://img.shields.io/badge/rust-grey.svg?style=for-the-badge&logo=rust&logoColor=000000">
-  <!-- <img src="https://img.shields.io/badge/scala-grey.svg?style=for-the-badge&logo=scala&logoColor=DC322F"> -->
-  <img src="https://img.shields.io/badge/shell_script-grey.svg?style=for-the-badge&logo=gnu-bash&logoColor=121011">
-  <!-- <img src="https://img.shields.io/badge/Solidity-grey.svg?style=for-the-badge&logo=solidity&logoColor=363636"> -->
-  <!-- <img src="https://img.shields.io/badge/swift-grey.svg?style=for-the-badge&logo=swift&logoColor=F54A2A"> -->
-  <img src="https://img.shields.io/badge/typescript-grey.svg?style=for-the-badge&logo=typescript&logoColor=007ACC">
-  <img src="https://img.shields.io/badge/Windows_Terminal-grey.svg?style=for-the-badge&logo=windows-terminal&logoColor=black">
-  <!-- <img src="https://img.shields.io/badge/Zig-grey.svg?style=for-the-badge&logo=zig&logoColor=F7A41D"> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/clojure" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/crystal" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/dart" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/elixir" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/elm" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/erlang" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/fortran" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/go" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/graphql" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/haskell" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/java" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/julia" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/latex" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/lua" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nim" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/perl" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/powershell" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/r" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/ruby" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/scala" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/solidity" /> -->
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/swift" /> -->
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/windows-terminal" />
+  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/zig" /> -->
 </div>
 
 # 🎍 ❤ Frameworks
