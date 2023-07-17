@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/NeoVim-grey.svg?&style=for-the-badge&logo=neovim&logoColor=57A143">
   <img src="https://img.shields.io/badge/tmux-grey.svg?style=for-the-badge&logo=tmux&logoColor=1BB91F">
   <img src="https://img.shields.io/badge/starship-grey.svg?style=for-the-badge&logo=starship&logoColor=DD0B78">
-  <img src="https://img.shields.io/badge/GNU%20Bash-grey.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=4EAA25">
+  <img src="https://img.shields.io/badge/GNU_Bash-grey.svg?style=for-the-badge&logo=GNU_Bash&logoColor=4EAA25">
   <img src="https://img.shields.io/badge/Arch_Linux-grey.svg?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
 </div>
 
@@ -48,25 +48,27 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
 ](https://github.com/ShortArrow/github-readme-stats)
 
-# 🎍 ping
+# 🎍 Communication Protcol
 
 <div>
-  <img src="https://img.shields.io/badge/Discord-grey.svg?style=for-the-badge&logo=discord&logoColor=7289DA">
-  <img src="https://img.shields.io/badge/Reddit-grey.svg?style=for-the-badge&logo=reddit&logoColor=FF4500">
-  <img src="https://img.shields.io/badge/Slack-grey.svg?style=for-the-badge&logo=slack&logoColor=4A154B">
-  <img src="https://img.shields.io/badge/Telegram-grey.svg?style=for-the-badge&logo=telegram&logoColor=2CA5E0">
-  <img src="https://img.shields.io/badge/Twitter-grey.svg?style=for-the-badge&logo=Twitter&logoColor=1DA1F2">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/discord/7289DA/7289DA" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/reddit/FF4500/FF4500" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/slack/4A154B/4A154B" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/telegram/2CA5E0/2CA5E0" />
+  <a href="https://twitter.com/sh_orz_RO">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2/1DA1F2" />
+  </a>
+  <a href="mailto:bamboogeneral@shortarrow.jp">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/maildotru/000000/FFFFFF" />
+  </a>
 </div>
 
-- https://twitter.com/sh_orz_RO
-- bamboogeneral@shortarrow.jp
-
-# 🎍 ❤ Languages
+# 🎍 Favo Lang
 
 <div>
-  <img src="https://img.shields.io/badge/c-grey.svg?style=for-the-badge&logo=c&logoColor=00599C">
-  <img src="https://img.shields.io/badge/c%23-grey.svg?style=for-the-badge&logo=c-sharp&logoColor=239120">
-  <img src="https://img.shields.io/badge/c++-grey.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c/A8B9CC/A8B9CC" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c++/00599C/00599C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/239120/239120" />
   <!-- <img src="https://img.shields.io/badge/Clojure-Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure"> -->
   <!-- <img src="https://img.shields.io/badge/crystal-grey.svg?style=for-the-badge&logo=crystal&logoColor=000000"> -->
   <img src="https://img.shields.io/badge/css3-grey.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
@@ -102,7 +104,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <!-- <img src="https://img.shields.io/badge/Solidity-grey.svg?style=for-the-badge&logo=solidity&logoColor=363636"> -->
   <!-- <img src="https://img.shields.io/badge/swift-grey.svg?style=for-the-badge&logo=swift&logoColor=F54A2A"> -->
   <img src="https://img.shields.io/badge/typescript-grey.svg?style=for-the-badge&logo=typescript&logoColor=007ACC">
-  <img src="https://img.shields.io/badge/Windows%20Terminal-grey.svg?style=for-the-badge&logo=windows-terminal&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows_Terminal-grey.svg?style=for-the-badge&logo=windows-terminal&logoColor=black">
   <!-- <img src="https://img.shields.io/badge/Zig-grey.svg?style=for-the-badge&logo=zig&logoColor=F7A41D"> -->
 </div>
 
@@ -112,7 +114,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img src="https://img.shields.io/badge/flask-grey.svg?style=for-the-badge&logo=flask&logoColor=black">
   <img src="https://img.shields.io/badge/Flutter-grey.svg?style=for-the-badge&logo=Flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/Gatsby-grey.svg?style=for-the-badge&logo=gatsby&logoColor=663399">
-  <img src="https://img.shields.io/badge/jasmine-grey.svg?style=for-the-badge&logo=jasmine&logoColor=8A4182">
+  <img src="https://img.shields.io/badge/django-grey.svg?style=for-the-badge&logo=django&logoColor=092E20">
   <img src="https://img.shields.io/badge/react-grey.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next-grey.svg?style=for-the-badge&logo=next.js&logoColor=black">
   <img src="https://img.shields.io/badge/MUI-grey.svg?style=for-the-badge&logo=mui&logoColor=0081CB">
@@ -122,37 +124,36 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 
 <div>
   <img src="https://img.shields.io/badge/Anaconda-grey.svg?style=for-the-badge&logo=anaconda&logoColor=44A833">
-  <img src="https://img.shields.io/badge/django-grey.svg?style=for-the-badge&logo=django&logoColor=092E20">
   <img src="https://img.shields.io/badge/NPM-grey.svg?style=for-the-badge&logo=npm&logoColor=000000">
   <img src="https://img.shields.io/badge/React_Router-grey.svg?style=for-the-badge&logo=react-router&logoColor=CA4245">
   <img src="https://img.shields.io/badge/webpack-grey.svg?style=for-the-badge&logo=webpack&logoColor=8DD6F9">
-  <img src="https://img.shields.io/badge/vercel-grey.svg?style=for-the-badge&logo=vercel&logoColor=000000">
-  <img src="https://img.shields.io/badge/Keras-grey.svg?style=for-the-badge&logo=Keras&logoColor=D00000">
-  <img src="https://img.shields.io/badge/pandas-grey.svg?style=for-the-badge&logo=pandas&logoColor=150458">
-  <img src="https://img.shields.io/badge/numpy-grey.svg?style=for-the-badge&logo=numpy&logoColor=013243">
-  <img src="https://img.shields.io/badge/PyTorch-grey.svg?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C">
-  <img src="https://img.shields.io/badge/TensorFlow-grey.svg?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00">
+  <img src="https://img.shields.io/badge/vite-grey.svg?style=for-the-badge&logo=vite&logoColor=646CFF">
 </div>
 
-# 🎍 ❤ cwd
+# 🎍 ❤ Habitat
 
 <div>
   <img src="https://img.shields.io/badge/AWS-grey.svg?style=for-the-badge&logo=amazon-aws&logoColor=FF9900">
   <img src="https://img.shields.io/badge/azure-grey.svg?style=for-the-badge&logo=microsoftazure&logoColor=0072C6">
+  <img src="https://img.shields.io/badge/GoogleCloud-grey.svg?style=for-the-badge&logo=google-cloud&logoColor=4285F4">
+  <img src="https://img.shields.io/badge/vercel-grey.svg?style=for-the-badge&logo=vercel&logoColor=000000">
   <img src="https://img.shields.io/badge/Cloudflare-grey.svg?style=for-the-badge&logo=Cloudflare&logoColor=F38020">
   <img src="https://img.shields.io/badge/firebase-grey.svg?style=for-the-badge&logo=firebase">
-  <img src="https://img.shields.io/badge/GoogleCloud-grey.svg?style=for-the-badge&logo=google-cloud&logoColor=4285F4">
+</div>
+
+# 🎍 ❤ OS
+
+<div>
   <img src="https://img.shields.io/badge/Alpine_Linux-grey.svg?style=for-the-badge&logo=alpine-linux&logoColor=0D597F">
   <img src="https://img.shields.io/badge/Android-grey.svg?style=for-the-badge&logo=android&logoColor=3DDC84">
-  <img src="https://img.shields.io/badge/Arch%20Linux-grey.svg?logo=arch-linux&style=for-the-badge&logoColor=1793D1">
-  <img src="https://img.shields.io/badge/cent%20os-grey.svg?style=for-the-badge&logo=centos&logoColor=002260">
-  <img src="https://img.shields.io/badge/chrome%20os-grey.svg?style=for-the-badge&logo=google%20chrome&logoColor=3D89FC">
+  <img src="https://img.shields.io/badge/Arch_Linux-grey.svg?logo=arch-linux&style=for-the-badge&logoColor=1793D1">
+  <img src="https://img.shields.io/badge/chrome_os-grey.svg?style=for-the-badge&logo=google_chrome&logoColor=3D89FC">
   <img src="https://img.shields.io/badge/Debian-grey.svg?style=for-the-badge&logo=debian&logoColor=D70A53">
   <img src="https://img.shields.io/badge/iOS-grey.svg?style=for-the-badge&logo=ios&logoColor=000000">
   <img src="https://img.shields.io/badge/Kali-grey.svg?style=for-the-badge&logo=kalilinux&logoColor=268BEE">
   <img src="https://img.shields.io/badge/Linux-grey.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/mac%20os-grey.svg?style=for-the-badge&logo=macos&logoColor=black">
-  <img src="https://img.shields.io/badge/Red%20Hat-grey.svg?style=for-the-badge&logo=redhat&logoColor=EE0000">
+  <img src="https://img.shields.io/badge/mac_os-grey.svg?style=for-the-badge&logo=macos&logoColor=black">
+  <img src="https://img.shields.io/badge/Red_Hat-grey.svg?style=for-the-badge&logo=redhat&logoColor=EE0000">
   <img src="https://img.shields.io/badge/Ubuntu-grey.svg?style=for-the-badge&logo=ubuntu&logoColor=E95420">
   <img src="https://img.shields.io/badge/Windows-grey.svg?style=for-the-badge&logo=windows&logoColor=0078D6">
   <img src="https://img.shields.io/badge/Switch-grey.svg?style=for-the-badge&logo=nintendo-switch&logoColor=E60012">
@@ -173,10 +174,14 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img src="https://img.shields.io/badge/mysql-grey.svg?style=for-the-badge&logo=mysql&logoColor=0000FF">
   <img src="https://img.shields.io/badge/MongoDB-grey.svg?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/sqlite-grey.svg?style=for-the-badge&logo=sqlite&logoColor=07405E">
-  <img src="https://img.shields.io/badge/github%20actions-grey.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5">
+  <img src="https://img.shields.io/badge/jasmine-grey.svg?style=for-the-badge&logo=jasmine&logoColor=8A4182">
+  <img src="https://img.shields.io/badge/github_actions-grey.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5">
+  <img src="https://img.shields.io/badge/playwright-grey.svg?style=for-the-badge&logo=playwright&logoColor=2EAD33">
+  <img src="https://img.shields.io/badge/vitest-grey.svg?style=for-the-badge&logo=vitest&logoColor=646CFF">
 </div>
 
 # 🎍 ❤ CMS & SSG
+
 <div>
   <img src="https://img.shields.io/badge/WordPress-grey.svg?style=for-the-badge&logo=WordPress&logoColor=117AC9">
   <img src="https://img.shields.io/badge/Hugo-grey.svg?style=for-the-badge&logo=hugo&logoColor=FF4088">
@@ -186,18 +191,11 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 
 <div>
   <img src="https://img.shields.io/badge/CodePen-grey.svg?style=for-the-badge&logo=codepen&logoColor=black">
-  <img src="https://img.shields.io/badge/Android%20Studio-grey.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84">
   <img src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=000000">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-grey.svg?style=for-the-badge&logo=intellij-idea&logoColor=000000">
-  <img src="https://img.shields.io/badge/jupyter-grey.svg?style=for-the-badge&logo=jupyter&logoColor=FA0F00">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-grey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
-  <img src="https://img.shields.io/badge/Xcode-grey.svg?style=for-the-badge&logo=Xcode&logoColor=007ACC">
-  <img src="https://img.shields.io/badge/tor-grey.svg?style=for-the-badge&logo=tor-project&logoColor=7E4798">
-  <img src="https://img.shields.io/badge/-selenium-grey.svg?style=for-the-badge&logo=selenium&logoColor=43B02A">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-grey.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
   <img src="https://img.shields.io/badge/git-grey.svg?style=for-the-badge&logo=git&logoColor=F05033">
   <img src="https://img.shields.io/badge/github-grey.svg?style=for-the-badge&logo=github&logoColor=121011">
-  <img src="https://img.shields.io/badge/Trello-grey.svg?style=for-the-badge&logo=Trello&logoColor=026AA7">
-  <img src="https://img.shields.io/badge/Google%20Sheets-grey.svg?style=for-the-badge&logo=google-sheets&logoColor=34A853">
+  <img src="https://img.shields.io/badge/Google_Sheets-grey.svg?style=for-the-badge&logo=google-sheets&logoColor=34A853">
   <img src="https://img.shields.io/badge/Microsoft_Office-grey.svg?style=for-the-badge&logo=microsoft-office&logoColor=D83B01">
   <img src="https://img.shields.io/badge/blender-grey.svg?style=for-the-badge&logo=blender&logoColor=F5792A">
   <img src="https://img.shields.io/badge/Gimp-grey.svg?style=for-the-badge&logo=gimp&logoColor=657D8B">
@@ -229,28 +227,28 @@ Speed insights of [this page](https://github.com/ShortArrow)
 
 <div>
   <a href="https://shields.io">
-    <img src="https://img.shields.io/badge/Shields%20IO-FFD700?style=for-the-badge&logo=shieldsdotio&logoColor=black">
+    <img src="https://img.shields.io/badge/Shields_IO-FFD700?style=for-the-badge&logo=shieldsdotio&logoColor=black">
   </a>
   <a href="https://simpleicons.org">
-    <img src="https://img.shields.io/badge/Simple%20Icons-FFD700?style=for-the-badge&logo=simpleicons&logoColor=black">
+    <img src="https://img.shields.io/badge/Simple_Icons-FFD700?style=for-the-badge&logo=simpleicons&logoColor=black">
   </a>
   <a href="https://github.com/ankurparihar/readme-pagespeed-insights">
-    <img src="https://img.shields.io/badge/ankurparihar%20/%20readmepage_speed_insights-FFD700?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/ankurparihar_/_readmepage_speed_insights-FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://img.shields.io/badge/anuraghazra%20/%20github%20readme%20stats-FFD700?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/anuraghazra_/_github_readme_stats-FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/badge/ryo%20ma%20/%20github%20profile%20trophy-FFD700?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/ryo_ma_/_github_profile_trophy-FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
   <a href="https://github.com/gjbae1212/hit-counter">
-    <img src="https://img.shields.io/badge/gjbae1212%20/%20hit%20counter-FFD700?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/gjbae1212_/_hit_counter-FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://img.shields.io/badge/vn7n24fzkq%20/%20github%20profile%20summary%20cards-FFD700?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/vn7n24fzkq_/_github_profile_summary_cards-FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
   <a href="https://github.com/kawamataryo/lapras-card-readme">
-    <img src="https://img.shields.io/badge/kawamataryo%20/%20lapras%20card%20readme-FFD700?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/kawamataryo_/_lapras_card_readme-FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </div>
 
