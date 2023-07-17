@@ -165,20 +165,20 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 ❤ DevOps
 
 <div>
-  <img src="https://img.shields.io/badge/ansible-grey.svg?style=for-the-badge&logo=ansible&logoColor=1A1918">
-  <img src="https://img.shields.io/badge/docker-grey.svg?style=for-the-badge&logo=docker&logoColor=0DB7ED">
-  <img src="https://img.shields.io/badge/terraform-grey.svg?style=for-the-badge&logo=terraform&logoColor=5835CC">
-  <img src="https://img.shields.io/badge/Postman-grey.svg?style=for-the-badge&logo=postman&logoColor=FF6C37">
-  <img src="https://img.shields.io/badge/Swagger-grey.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D">
-  <img src="https://img.shields.io/badge/jenkins-grey.svg?style=for-the-badge&logo=jenkins&logoColor=black">
-  <img src="https://img.shields.io/badge/nginx-grey.svg?style=for-the-badge&logo=nginx&logoColor=009639">
-  <img src="https://img.shields.io/badge/mysql-grey.svg?style=for-the-badge&logo=mysql&logoColor=0000FF">
-  <img src="https://img.shields.io/badge/MongoDB-grey.svg?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-  <img src="https://img.shields.io/badge/sqlite-grey.svg?style=for-the-badge&logo=sqlite&logoColor=07405E">
-  <img src="https://img.shields.io/badge/jasmine-grey.svg?style=for-the-badge&logo=jasmine&logoColor=8A4182">
-  <img src="https://img.shields.io/badge/github_actions-grey.svg?style=for-the-badge&logo=githubactions&logoColor=2671E5">
-  <img src="https://img.shields.io/badge/playwright-grey.svg?style=for-the-badge&logo=playwright&logoColor=2EAD33">
-  <img src="https://img.shields.io/badge/vitest-grey.svg?style=for-the-badge&logo=vitest&logoColor=646CFF">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ansible" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/terraform" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postman" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/swagger" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/jenkins" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/jasmine" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/playwright" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vitest" />
 </div>
 
 # 🎍 ❤ CMS & SSG
