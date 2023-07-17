@@ -148,12 +148,12 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/alpinelinux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/android" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/chromeos" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/debian" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ios" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ios/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/macos" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/macos/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/redhat" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows" />
