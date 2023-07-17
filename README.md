@@ -7,13 +7,13 @@
 - 📜 Blog: [shortarrow.jp](https://www.shortarrow.jp/)
 - 🎪 Portfolio: [shortarrow.jp/portfolio](https://www.shortarrow.jp/portfolio/)
 
-# 🎍 env
+# 🎍 main env
 <div>
-  <img src="https://img.shields.io/badge/NeoVim-grey.svg?&style=for-the-badge&logo=neovim&logoColor=57A143">
-  <img src="https://img.shields.io/badge/tmux-grey.svg?style=for-the-badge&logo=tmux&logoColor=1BB91F">
-  <img src="https://img.shields.io/badge/starship-grey.svg?style=for-the-badge&logo=starship&logoColor=DD0B78">
-  <img src="https://img.shields.io/badge/GNU_Bash-grey.svg?style=for-the-badge&logo=GNU_Bash&logoColor=4EAA25">
-  <img src="https://img.shields.io/badge/Arch_Linux-grey.svg?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/neovim/57A143/57A143" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tmux/1BB91F/1BB91F" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/starship/DD0B78/DD0B78" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/4EAA25/4EAA25" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/1793D1/1793D1" />
 </div>
 
 # 🎍 achieves
