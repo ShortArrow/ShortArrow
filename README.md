@@ -66,7 +66,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 Favo Lang
 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/clojure" /> -->
@@ -87,7 +87,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/latex" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/lua" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/000000/FFFFFF" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nim" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/perl" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
@@ -95,7 +95,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/r" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/ruby" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/rust/000000/FFFFFF" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/scala" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/solidity" /> -->
