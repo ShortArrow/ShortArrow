@@ -108,12 +108,12 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 # 🎍 ❤ Frameworks
 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/flask/white/black" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/flask/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gatsby" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/django" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/i18next" />
@@ -124,7 +124,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/anaconda" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/react-router" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/webpack" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
 </div>
@@ -137,7 +137,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vercel" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vercel/black/white" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nextcloud" /> -->
 </div>
