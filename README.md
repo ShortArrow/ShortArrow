@@ -116,7 +116,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/n18next" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/i18next" />
 </div>
 
 # 🎍 ❤ Stacks
