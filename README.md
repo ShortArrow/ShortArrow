@@ -197,16 +197,16 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
 
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/diagramsdotnet" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/codepen" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/codepen/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/unity" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftoffice" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/blender" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gimp" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/inkscape" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/inkscape/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/spotify" />
 </div>
