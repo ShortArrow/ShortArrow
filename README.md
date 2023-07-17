@@ -101,7 +101,7 @@ Last Updated on 7/17/2023, 12:24:42 AM</p>
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/solidity" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/swift" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/windows-terminal" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/zig" /> -->
 </div>
 
