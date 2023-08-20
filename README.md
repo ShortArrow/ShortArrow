@@ -34,7 +34,7 @@ Last Updated on 8/20/2023, 12:18:04 AM</p>
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ShortArrow/followers.svg)](http://qiita.com/ShortArrow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sh_orz_RO?style=social&logo=twitter)](https://twitter.com/sh_orz_RO) 
 [![GitHub Follow](https://img.shields.io/github/followers/ShortArrow?style=social&logo=github)](https://github.com/ShortArrow)
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fqiita.com%2FShortArrow&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShortArrow&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=profile+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=6)](https://github.com/ShortArrow/github-profile-trophy)
 
