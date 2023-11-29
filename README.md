@@ -181,6 +181,7 @@ Last Updated on 11/29/2023, 12:19:23 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/eclipsemosquitto" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/jasmine" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ngrok/black/white" />
@@ -200,7 +201,7 @@ Last Updated on 11/29/2023, 12:19:23 AM</p>
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/diagramsdotnet" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/codepen/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/unity" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/unity/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white" />
