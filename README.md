@@ -206,7 +206,7 @@ Last Updated on 11/29/2023, 12:19:23 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftoffice" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/blender" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gimp" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/inkscape/black/white" />
