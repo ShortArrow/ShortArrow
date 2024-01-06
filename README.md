@@ -19,8 +19,8 @@
 # 🎍 achieves
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/MIBGQP7" target="_blank" rel="noopener noreferrer"><img alt="MIBGQP7のLAPRASでのスコアは次の通りです: エンジニアリング: 3.8 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.34 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.8&b=3.36&i=3.34&b1=%23000000&b2=%23212121&i1=%23212121&i2=%23000000&l=ja" width="400" ></a>  
-Last Updated on 1/5/2024, 12:19:19 AM</p>
+<p ><a href="https://lapras.com/public/MIBGQP7" target="_blank" rel="noopener noreferrer"><img alt="MIBGQP7のLAPRASでのスコアは次の通りです: エンジニアリング: 3.81 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.34 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.81&b=3.36&i=3.34&b1=%23000000&b2=%23212121&i1=%23212121&i2=%23000000&l=ja" width="400" ></a>  
+Last Updated on 1/6/2024, 12:19:08 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShortArrow&theme=github_dark)
