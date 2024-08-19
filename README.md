@@ -134,8 +134,8 @@ Last Updated on 8/19/2024, 12:22:24 AM</p>
 # 🎍 ❤ Habitat
 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/black/white" />
+  <img height="32" width="32" src="https://cdn.svgporn.com/logos/microsoft-azure.svg?response-content-disposition=attachment%3Bfilename%3Dmicrosoft-azure.svg" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
@@ -184,7 +184,7 @@ Last Updated on 8/19/2024, 12:22:24 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/jasmine" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ngrok/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/playwright" />
+  <img height="32" width="32" src="https://cdn.svgporn.com/logos/playwright.svg?response-content-disposition=attachment%3Bfilename%3Dplaywright.svg" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vitest" />
 </div>
 
