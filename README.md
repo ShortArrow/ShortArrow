@@ -56,7 +56,7 @@ Last Updated on 8/19/2024, 12:22:24 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/slack" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
   <a href="https://twitter.com/sh_orz_RO">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/twitter" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/x/000000/FFFFFF" />
   </a>
   <a href="mailto:bamboogeneral@shortarrow.jp">
     <img height="32" width="32" src="https://cdn.simpleicons.org/maildotru/000000/FFFFFF" />
@@ -68,7 +68,7 @@ Last Updated on 8/19/2024, 12:22:24 AM</p>
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
+  <img height="32" width="32" src="https://cdn.svgporn.com/logos/c-sharp.svg?response-content-disposition=attachment%3Bfilename%3Dc-sharp.svg" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/clojure" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/crystal" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
@@ -91,7 +91,7 @@ Last Updated on 8/19/2024, 12:22:24 AM</p>
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nim" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/perl" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/powershell" />
+  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/11524380?s=200&v=4" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/r" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/ruby" /> -->
