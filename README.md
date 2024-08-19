@@ -118,6 +118,7 @@ Last Updated on 8/19/2024, 12:22:24 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/mui" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/i18next" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/babylondotjs"
 </div>
 
 # 🎍 ❤ Stacks
@@ -201,7 +202,7 @@ Last Updated on 8/19/2024, 12:22:24 AM</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/diagramsdotnet" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/codepen/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/unity/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+  <img height="32" width="32" src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets" />
