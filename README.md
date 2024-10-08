@@ -20,7 +20,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/MIBGQP7" target="_blank" rel="noopener noreferrer"><img alt="MIBGQP7のLAPRASでのスコアは次の通りです: エンジニアリング: undefined / 5.0, ビジネス: undefined / 5.0, インフルエンス: undefined / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23000000&b2=%23212121&i1=%23212121&i2=%23000000&l=ja" width="400" ></a>  
-Last Updated on 10/7/2024, 12:25:25 AM</p>
+Last Updated on 10/8/2024, 12:23:53 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShortArrow&theme=github_dark)
