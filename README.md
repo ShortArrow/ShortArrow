@@ -1,19 +1,34 @@
-# 🎍 bio
+<div align="center">
 
-- Pronouns:
-  - OSS creator
-  - Embeded enginner / Mechatronics engineer
-  - Automation engineer
-  - Architect
-  - mini Game creator
-  - UI/UX designer
-  - Frontend / Backend
-  - SRE
-  - Kitting / PC builder
-- Private: I'm crazy in TPS that act creature named inkling
-- Atribute: Driven by laziness
-- Blog: [shortarrow.jp](https://www.shortarrow.jp/)
-- Portfolio: [shortarrow.jp/portfolio](https://www.shortarrow.jp/portfolio/)
+# 🎍 bio 🎍
+
+## Pronouns
+
+![Static Badge](https://img.shields.io/badge/OSS_creator-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Embeded_enginner-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Mechatronics_engineer-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Automation_engineer-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Architect-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/mini_Game_creator-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/UI/UX_designer-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Frontend-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Backend-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SRE-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Kitting-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/PC_builder-gray?style=for-the-badge)
+
+## Atribute
+
+![Static Badge](https://img.shields.io/badge/ENFP-Public_relations_campaigner-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Sloth-Driven_by_laziness-blue?style=for-the-badge)
+
+## Blog
+
+[shortarrow.jp](https://www.shortarrow.jp/)
+
+## Portfolio
+
+[shortarrow.jp/portfolio](https://www.shortarrow.jp/portfolio/)
 
 # 🎍 main env
 <div>
@@ -26,11 +41,6 @@
 
 # 🎍 achieves
 
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/MIBGQP7" target="_blank" rel="noopener noreferrer"><img alt="MIBGQP7のLAPRASでのスコアは次の通りです: エンジニアリング: undefined / 5.0, ビジネス: undefined / 5.0, インフルエンス: undefined / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23000000&b2=%23212121&i1=%23212121&i2=%23000000&l=ja" width="400" ></a>  
-Last Updated on 10/12/2024, 12:23:18 AM</p>
-<!--END_SECTION:lapras-card-->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShortArrow&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShortArrow&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShortArrow&theme=github_dark)
@@ -41,18 +51,15 @@ Last Updated on 10/12/2024, 12:23:18 AM</p>
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ShortArrow/contributions.svg)](http://qiita.com/ShortArrow)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ShortArrow/followers.svg)](http://qiita.com/ShortArrow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sh_orz_RO?style=social&logo=twitter)](https://twitter.com/sh_orz_RO) 
-[![GitHub Follow](https://img.shields.io/github/followers/ShortArrow?style=social&logo=github)](https://github.com/ShortArrow)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShortArrow&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=profile+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=6)](https://github.com/ShortArrow/github-profile-trophy)
 
-<a href="https://stackoverflow.com/users/13329045/shortarrow">
-  <img src="https://stackoverflow.com/users/flair/13329045.png" width="208" height="58" alt="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ShortArrow at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
 [
   ![ShortArrow's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
-](https://github.com/ShortArrow/github-readme-stats)[
+](https://github.com/ShortArrow/github-readme-stats)
+
+[
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
 ](https://github.com/ShortArrow/github-readme-stats)
 
@@ -109,7 +116,6 @@ Last Updated on 10/12/2024, 12:23:18 AM</p>
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/solidity" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/swift" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googleappsscript" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/zig" /> -->
 </div>
@@ -280,3 +286,5 @@ Speed insights of [this page](https://github.com/ShortArrow)
 # 🎁Help me
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shortarrow)
+
+</div>
