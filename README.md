@@ -1,11 +1,19 @@
 # 🎍 bio
 
-- 🤖 Pronouns: the Droidizer : Automating literally all the things
-- 🦑 Fun fact: I'm crazy in TPS that act creature named inkling
-- 💬 Ask me about How to accelerate processes
-- 🫠 Sloth: Driven by laziness
-- 📜 Blog: [shortarrow.jp](https://www.shortarrow.jp/)
-- 🎪 Portfolio: [shortarrow.jp/portfolio](https://www.shortarrow.jp/portfolio/)
+- Pronouns:
+  - OSS creator
+  - Embeded enginner / Mechatronics engineer
+  - Automation engineer
+  - Architect
+  - mini Game creator
+  - UI/UX designer
+  - Frontend / Backend
+  - SRE
+  - Kitting / PC builder
+- Private: I'm crazy in TPS that act creature named inkling
+- Atribute: Driven by laziness
+- Blog: [shortarrow.jp](https://www.shortarrow.jp/)
+- Portfolio: [shortarrow.jp/portfolio](https://www.shortarrow.jp/portfolio/)
 
 # 🎍 main env
 <div>
