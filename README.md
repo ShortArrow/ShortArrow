@@ -47,14 +47,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShortArrow&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShortArrow&theme=github_dark&utcOffset=8)
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ShortArrow/posts.svg)](http://qiita.com/ShortArrow)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ShortArrow/contributions.svg)](http://qiita.com/ShortArrow)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/ShortArrow/followers.svg)](http://qiita.com/ShortArrow)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sh_orz_RO?style=social&logo=twitter)](https://twitter.com/sh_orz_RO) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShortArrow&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=profile+hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=6)](https://github.com/ShortArrow/github-profile-trophy)
-
 [
   ![ShortArrow's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
 ](https://github.com/ShortArrow/github-readme-stats)
@@ -62,6 +54,16 @@
 [
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
 ](https://github.com/ShortArrow/github-readme-stats)
+
+[
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=6&no-frame=true&column=4)
+](https://github.com/ShortArrow/github-profile-trophy)
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ShortArrow/posts.svg)](http://qiita.com/ShortArrow)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ShortArrow/contributions.svg)](http://qiita.com/ShortArrow)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/ShortArrow/followers.svg)](http://qiita.com/ShortArrow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sh_orz_RO?style=social&logo=twitter)](https://twitter.com/sh_orz_RO) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShortArrow&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=profile+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 📶 Communication Protcol 📶
 
@@ -201,13 +203,7 @@
 
 # ⏱️ Speed insights ⏱️
 
-Speed insights of [this page](https://github.com/ShortArrow)
-
-<picture align="center">
-  <source media="(max-width: 799px)" srcset="https://raw.githubusercontent.com/ShortArrow/ShortArrow/master/reports/psresultmobile.svg">
-  <source media="(min-width: 800px)" srcset="https://raw.githubusercontent.com/ShortArrow/ShortArrow/master/reports/psresultdesktop.svg">
-  <img src="reports/psresultdesktop.svg" alt="Chris standing up holding his daughter Elva" width="100%">
-</picture>
+[Speed insights of this page](https://github.com/ShortArrow/ShortArrow/tree/main/reports)
 
 💪 by [@ankurparihar](https://github.com/ankurparihar/readme-pagespeed-insights)
 
@@ -235,12 +231,7 @@ Speed insights of [this page](https://github.com/ShortArrow)
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://img.shields.io/badge/vn7n24fzkq_/_github_profile_summary_cards-FFD700?style=for-the-badge&logo=github&logoColor=black">
   </a>
-  <a href="https://github.com/kawamataryo/lapras-card-readme">
-    <img src="https://img.shields.io/badge/kawamataryo_/_lapras_card_readme-FFD700?style=for-the-badge&logo=github&logoColor=black">
-  </a>
 </div>
-
-![GitHub Snake dark](./img/snake.svg)
 
 # 🎁 Help me 🎁
 
