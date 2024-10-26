@@ -41,11 +41,11 @@
 
 # 🎖️ Achieves 🎖️
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShortArrow&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShortArrow&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShortArrow&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShortArrow&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShortArrow&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShortArrow&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShortArrow&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShortArrow&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShortArrow&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShortArrow&theme=transparent&utcOffset=8)
 
 [
   ![ShortArrow's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
