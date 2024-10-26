@@ -85,7 +85,7 @@
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/c/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/c++/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/orange/yellow" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/clojure" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/crystal" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3/black/white" />
@@ -103,9 +103,9 @@
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/julia" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/latex" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/lua/yellow/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/yellow/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mermaid/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/lua/orange/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/orange/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mermaid/orange/yellow" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nim" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/perl" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/php/black/white" />
@@ -113,12 +113,12 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/r" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/ruby" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/rust/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/rust/orange/yellow" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/scala" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/black/white" />
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/solidity" /> -->
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/swift" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googleappsscript/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/zig/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/flask/black/white" />
@@ -126,19 +126,19 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/django/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/react/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/mui/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/i18next/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/babylondotjs/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/anaconda/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nuget/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nuget/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/npm/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pnpm/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pnpm/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/yarn/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vite/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vite/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/chocolatey/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/black/white" />
@@ -150,7 +150,7 @@
   <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nextcloud" /> -->
   <img height="32" width="32" src="https://cdn.simpleicons.org/alpinelinux/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/android/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/debian/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ios/black/white" />
@@ -162,7 +162,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/nintendoswitch/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/playstation/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ansible/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/terraform/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/virtualbox/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vagrant/black/white" />
@@ -177,20 +177,20 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/jasmine/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/ngrok/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vitest/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vitest/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/wordpress/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/hugo/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/hugo/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/diagramsdotnet/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/codepen/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/unity/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/blender/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/gimp/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/inkscape/yellow/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/figma/yellow/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/spotify/yellow/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/inkscape/orange/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/figma/orange/yellow" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/spotify/orange/yellow" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark/black/white" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi/black/white" />
