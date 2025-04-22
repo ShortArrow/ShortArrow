@@ -56,7 +56,7 @@
 ](https://github.com/ShortArrow/github-readme-stats)
 
 [
-  ![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=6&no-frame=true&column=4)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=6&no-frame=true&column=5)
 ](https://github.com/ShortArrow/github-profile-trophy)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ShortArrow/posts.svg)](http://qiita.com/ShortArrow)
