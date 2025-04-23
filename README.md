@@ -67,139 +67,225 @@
 
 # 📶 Communication Protcol 📶
 
-<div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/discord" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/reddit" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/slack" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
-  <a href="https://twitter.com/sh_orz_RO">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/x/000000/FFFFFF" />
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=discord,reddit,x,slack,telegram"
+    />
   </a>
-  <a href="mailto:bamboogeneral@shortarrow.jp">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/maildotru/000000/FFFFFF" />
-  </a>
-</div>
+</p>
 
 # ❤ Favo ❤
 
-<div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c++/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/orange/yellow" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/clojure" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/crystal" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dart/black/white" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/elixir" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/elm" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/erlang" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/fortran" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/go/black/white" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/graphql" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/haskell" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/black/white" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/java" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/black/white" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/julia" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/latex" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/lua/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mermaid/orange/yellow" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nim" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/perl" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/php/black/white" />
-  <img height="32" width="32" src="https://avatars.githubusercontent.com/u/11524380?s=200&v=4" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/r" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/ruby" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/rust/orange/yellow" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/scala" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/black/white" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/solidity" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/swift" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/googleappsscript/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/zig/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/flask/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/falcon/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/django/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/react/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mui/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/i18next/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/babylondotjs/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/anaconda/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nuget/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/npm/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pnpm/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/yarn/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vite/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/chocolatey/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/cloudflare/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vercel/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gatsby/black/white" />
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/kubernetes" /> -->
-  <!-- <img height="32" width="32" src="https://cdn.simpleicons.org/nextcloud" /> -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/alpinelinux/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/android/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/debian/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ios/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/macos/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/redhat/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nintendoswitch/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/playstation/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ansible/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/terraform/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/virtualbox/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vagrant/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/qemu/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postman/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/swagger/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/jenkins/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nginx/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/jasmine/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ngrok/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vitest/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/wordpress/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/hugo/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/diagramsdotnet/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/codepen/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/unity/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/blender/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/gimp/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/inkscape/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/figma/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/spotify/orange/yellow" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/filezilla/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/arduino/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ros/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/eclipsemosquitto/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/mqtt/black/white" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/qemu/black/white" />
-</div>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=
+        alpinejs-auto,
+        anaconda-auto,
+        android-auto,
+        androidstudio-auto,
+        angular-auto,
+        ansible,
+        apache-auto,
+        api-auto,
+        arch-auto,
+        arduino,
+        assembly,
+        astro,
+        audacity-auto,
+        aurora,
+        autocad-auto,
+        aws-auto,
+        azure-auto,
+        bash-auto,
+        blazor-auto,
+        blender-auto,
+        bootstrap,
+        c,
+        canva-auto,
+        chartjs-auto,
+        cloudflare-auto,
+        cmake-auto,
+        codeberg-auto,
+        codepen-auto,
+        composer-auto,
+        cpp,
+        cs,
+        css,
+        cuda-auto,
+        d3-auto,
+        daisyui-auto,
+        dart-auto,
+        davinci,
+        dbeaver-auto,
+        debian,
+        deno-auto,
+        discord,
+        discordbots,
+        django,
+        docker,
+        dotnet,
+        elasticsearch-auto,
+        electron,
+        elixir-auto,
+        excel-auto,
+        expressjs-auto,
+        fastapi,
+        ffmpeg-auto,
+        figma-auto,
+        firebase-auto,
+        firefox-auto,
+        flask-auto,
+        flutter-auto,
+        freecad-auto,
+        gatsby,
+        gcp-auto,
+        gentoo-auto,
+        gimp-auto,
+        gin-auto,
+        git-auto,
+        github-auto,
+        gleam-auto,
+        godot-auto,
+        golang,
+        googleanalytics-auto,
+        googlecolab-auto,
+        googleplayconsole-auto,
+        gradle-auto,
+        grafana-auto,
+        grpc-auto,
+        grunt-auto,
+        hackthebox-auto,
+        helix-auto,
+        hono-auto,
+        html,
+        huggingface-auto,
+        hugo-auto,
+        hyprland-auto,
+        i3-auto,
+        iceberg-auto,
+        illustrator,
+        inkscape-auto,
+        javascript,
+        jenkins-auto,
+        jest,
+        jquery,
+        kali-auto,
+        kitty-auto,
+        kotlin-auto,
+        latex-auto,
+        lazyvim-auto,
+        lighthouse,
+        linux-auto,
+        lua-auto,
+        manjaro,
+        mariadb-auto,
+        markdown-auto,
+        materialui-auto,
+        matplotlib-auto,
+        mermaid,
+        mongodb,
+        mysql-auto,
+        neovim-auto,
+        nestjs-auto,
+        nextjs-auto,
+        nginx,
+        ngrok,
+        nim-auto,
+        nixos-auto,
+        nodejs-auto,
+        numpy-auto,
+        obs-auto,
+        obsidian-auto,
+        ollama-auto,
+        opencv-auto,
+        opensource-auto,
+        openstack-auto,
+        p5js,
+        pandas-auto,
+        photoshop,
+        php-auto,
+        playwright-auto,
+        pnpm-auto,
+        podman-auto,
+        postgresql-auto,
+        postman,
+        powerpoint-auto,
+        powershell-auto,
+        premiere,
+        prisma,
+        processing-auto,
+        prometheus,
+        puppeteer-auto,
+        pytest-auto,
+        python-auto,
+        rabbitmq-auto,
+        raspberrypi-auto,
+        react-auto,
+        reactnative-auto,
+        recoil,
+        reddit,
+        redis-auto,
+        regex-auto,
+        ros-auto,
+        rust-auto,
+        scikitlearn-auto,
+        scipy-auto,
+        seaborn-auto,
+        selenium,
+        solidity,
+        solidjs-auto,
+        sphinx-auto,
+        sqlalchemy-auto,
+        sqlite,
+        stan-auto,
+        storybook-auto,
+        stripe-auto,
+        supabase-auto,
+        svg-auto,
+        swagger-auto,
+        tailwindcss-auto,
+        tauri-auto,
+        telescope,
+        tensorflow-auto,
+        terminal-auto,
+        terraform-auto,
+        threejs-auto,
+        thunderbird-auto,
+        tmux-auto,
+        tomcat-auto,
+        tor-auto,
+        trpc,
+        typescript,
+        ubuntu,
+        unity-auto,
+        vagrant-auto,
+        vim-auto,
+        virtualbox-auto,
+        visualbasic-auto,
+        visualstudio-auto,
+        vite-auto,
+        vitest-auto,
+        vscode-auto,
+        vscodium-auto,
+        webassembly,
+        wezterm-auto,
+        windows-auto,
+        wireshark-auto,
+        word-auto,
+        wordpress,
+        wsl-auto,
+        xd,
+        yaml-auto,
+        yarn-auto,
+        zabbix,
+        zed-auto,
+        zellij-auto,
+        zig-auto"
+    />
+  </a>
+</p>
 
 # ⏱️ Speed insights ⏱️
 
