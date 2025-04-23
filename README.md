@@ -80,7 +80,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=neovim,github,react,typescript,vite,vitest,pytest,dotnet,golang,docker,rust,lighthouse,playwright,freecad,gimp,inkscape,bash,arduino,unity,powershell,lua,pnpm,opensource,ollama,recoil,raspberrypi,puppeteer,storybook,zed,zellij,zig,nim,swagger,tailwindcss,tauri,tmux,virtualbox,wezterm,wireshark,mermaid,hyprland,hugo,blender,figma,gcp,azure,aws,cloudflare&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=neovim,github,react,typescript,vite,vitest,pytest,dotnet,golang,docker,rust,lighthouse,playwright,freecad,gimp,inkscape,bash,arduino,unity,powershell,lua,pnpm,opensource,ollama,recoil,raspberrypi,puppeteer,storybook,zed,zellij,zig,nim,swagger,tailwindcss,tauri,tmux,virtualbox,wezterm,wireshark,mermaid,hyprland,i3,hugo,blender,figma,gcp,azure,aws,cloudflare,arch,debian,kali,excel,bash&titles=true"
     />
   </a>
 </p>
