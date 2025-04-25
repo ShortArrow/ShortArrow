@@ -77,9 +77,7 @@
 
 # ❤ Favo ❤
 
-<p align="center">
-  ![favo]("https://go-skill-icons.vercel.app/api/icons?i=neovim,github,react,typescript,vite,vitest,pytest,dotnet,golang,docker,rust,lighthouse,playwright,freecad,gimp,inkscape,bash,arduino,unity,powershell,lua,pnpm,opensource,ollama,recoil,raspberrypi,puppeteer,storybook,zed,zellij,zig,nim,swagger,tailwindcss,tauri,tmux,virtualbox,wezterm,wireshark,mermaid,hyprland,i3,hugo,blender,figma,gcp,azure,aws,cloudflare,arch,debian,kali,excel,materialui,postman,ros,bash&titles=true")
-</p>
+![favo]("https://go-skill-icons.vercel.app/api/icons?i=neovim,github,react,typescript,vite,vitest,pytest,dotnet,golang,docker,rust,lighthouse,playwright,freecad,gimp,inkscape,bash,arduino,unity,powershell,lua,pnpm,opensource,ollama,recoil,raspberrypi,puppeteer,storybook,zed,zellij,zig,nim,swagger,tailwindcss,tauri,tmux,virtualbox,wezterm,wireshark,mermaid,hyprland,i3,hugo,blender,figma,gcp,azure,aws,cloudflare,arch,debian,kali,excel,materialui,postman,ros,bash&titles=true")
 
 # ⏱️ Speed insights ⏱️
 
