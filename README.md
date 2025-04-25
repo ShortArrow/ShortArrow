@@ -84,7 +84,6 @@
     />
   </a>
 </p>
-![favo]("")
 
 # ⏱️ Speed insights ⏱️
 
