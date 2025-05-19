@@ -32,11 +32,11 @@ he/him
 
 ## Blog
 
-[shortarrow.jp](https://www.shortarrow.jp/)
+[shortarrow.jp](https://www.shortarrow.jp/en/)
 
 ## Portfolio
 
-[shortarrow.jp/portfolio](https://www.shortarrow.jp/portfolio/)
+[shortarrow.jp/portfolio](https://www.shortarrow.jp/en/portfolio/)
 
 # 🎍 main env 🏠
 <div>
