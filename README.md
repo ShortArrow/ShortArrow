@@ -24,10 +24,11 @@ he/him
 ## Atribute
 
 ![Static Badge](https://img.shields.io/badge/ENFP-Public_relations_campaigner-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Sloth-Driven_by_laziness-blue?style=for-the-badge)
 
 ## Sobriquet
 
-![Static Badge](https://img.shields.io/badge/Sloth-Driven_by_laziness-blue?style=for-the-badge)
+#N/A
 
 ## Blog
 
