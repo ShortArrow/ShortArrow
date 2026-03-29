@@ -99,32 +99,6 @@ he/him
 
 💪 by [@ankurparihar](https://github.com/ankurparihar/readme-pagespeed-insights)
 
-# 🎬 End credits 🎬
-
-<div>
-  <a href="https://shields.io">
-    <img src="https://img.shields.io/badge/Shields_IO-FFD700?style=for-the-badge&logo=shieldsdotio&logoColor=black">
-  </a>
-  <a href="https://simpleicons.org">
-    <img src="https://img.shields.io/badge/Simple_Icons-FFD700?style=for-the-badge&logo=simpleicons&logoColor=black">
-  </a>
-  <a href="https://github.com/ankurparihar/readme-pagespeed-insights">
-    <img src="https://img.shields.io/badge/ankurparihar_/_readmepage_speed_insights-FFD700?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://img.shields.io/badge/anuraghazra_/_github_readme_stats-FFD700?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/badge/ryo_ma_/_github_profile_trophy-FFD700?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-  <a href="https://github.com/gjbae1212/hit-counter">
-    <img src="https://img.shields.io/badge/gjbae1212_/_hit_counter-FFD700?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://img.shields.io/badge/vn7n24fzkq_/_github_profile_summary_cards-FFD700?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-</div>
-
 # 🎁 Help me 🎁
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shortarrow)
