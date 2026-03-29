@@ -55,18 +55,6 @@ he/him
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShortArrow&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShortArrow&theme=transparent&utcOffset=8)
 
-[
-  ![ShortArrow's github stats](https://github-readme-stats.vercel.app/api?username=ShortArrow&count_private=true&show_icons=true&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
-](https://github.com/ShortArrow/github-readme-stats)
-
-[
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortArrow&layout=compact&hide=Jupyter+Notebook&bg_color=00000000&border_color=2e343b&title_color=0366d6&icon_color=8b949e&text_color=77909c)
-](https://github.com/ShortArrow/github-readme-stats)
-
-[
-  ![trophy](https://github-profile-trophy.vercel.app/?username=ShortArrow&theme=discord&rank=SECRET,SSS,SS,S,AAA&no-bg=true&margin-w=6&no-frame=true&column=5)
-](https://github.com/ShortArrow/github-profile-trophy)
-
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ShortArrow/posts.svg)](http://qiita.com/ShortArrow)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ShortArrow/contributions.svg)](http://qiita.com/ShortArrow)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ShortArrow/followers.svg)](http://qiita.com/ShortArrow)
