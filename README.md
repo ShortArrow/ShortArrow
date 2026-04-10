@@ -59,7 +59,6 @@ he/him
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ShortArrow/contributions.svg)](http://qiita.com/ShortArrow)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ShortArrow/followers.svg)](http://qiita.com/ShortArrow)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sh_orz_RO?style=social&logo=twitter)](https://twitter.com/sh_orz_RO) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShortArrow&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=profile+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 📶 Communication Protcol 📶
 
